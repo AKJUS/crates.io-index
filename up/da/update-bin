@@ -1,1 +1,2 @@
 {"name":"update-bin","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0c1f20e3f503f122a3a9e9282215462af141180a9f5ae94d33c79b7811d4692","features":{},"yanked":false}
+{"name":"update-bin","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6b75e5e0466aff251e1d39bbfc050e021a1b28f01adad5384e617158fa9ec1f","features":{},"yanked":false}
