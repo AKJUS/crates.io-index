@@ -1,0 +1,1 @@
+{"name":"rspack_binding_build","vers":"0.2.1-alpha.0","deps":[{"name":"napi-build","req":"^3.0.0-beta.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28ac3452cbc9e1af33b91a5932c2bfdf1931a00fc258afb47d883b1dad7c4f5e","features":{},"yanked":false}
