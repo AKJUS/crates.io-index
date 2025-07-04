@@ -14,3 +14,4 @@
 {"name":"fedimint-server-tests","vers":"0.7.1","deps":[],"cksum":"55b9bdf9de40e988cf19ed891c7e4af9acafc60bb8a0fc1c37c0d185b023d628","features":{},"yanked":false}
 {"name":"fedimint-server-tests","vers":"0.7.2-rc.0","deps":[],"cksum":"18c5d6b11027d94f65f756819c0f78ccbda7109b2450a2c69664ea8d21059ee7","features":{},"yanked":false}
 {"name":"fedimint-server-tests","vers":"0.7.2","deps":[],"cksum":"5726bc8346cb42cec6513b08ce728e72dca1828ab058dfb8b976e04f3317ad56","features":{},"yanked":false}
+{"name":"fedimint-server-tests","vers":"0.8.0-beta.0","deps":[],"cksum":"2f1740775df1b1930244dab8c06b51d9549707eb8df4fbaa05d3591fbed4cc18","features":{},"yanked":false}
