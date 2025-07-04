@@ -1,1 +1,2 @@
 {"name":"argtokens","vers":"0.0.0","deps":[],"cksum":"8eb56cbd033c689bf556d05e75d6255ed56f7f69b1ffeec274c34d4baa53a9db","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"argtokens","vers":"0.0.1","deps":[],"cksum":"0d386a772fd0e4d92ccae3413d266febaee60e4ced57aaeba84e5c6e417088eb","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
