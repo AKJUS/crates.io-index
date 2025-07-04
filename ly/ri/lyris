@@ -1,0 +1,1 @@
+{"name":"lyris","vers":"0.0.1","deps":[{"name":"lockfree","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a57913892a4909e93e18b1413618fd441578350dc20dc05dbd227d9b333205d","features":{},"yanked":false}
