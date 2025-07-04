@@ -16,3 +16,4 @@
 {"name":"maliput-sdk","vers":"0.3.2","deps":[],"cksum":"955da1779d4be8aa782100013855dc6cdd585c6c30f6e214a801be182921c29f","features":{},"yanked":false,"links":"maliput-sdk"}
 {"name":"maliput-sdk","vers":"0.4.0","deps":[],"cksum":"ce9c236abb707277ac7da3e3235ae1b964f406f80494c5a581fa8145a5276588","features":{},"yanked":false,"links":"maliput-sdk"}
 {"name":"maliput-sdk","vers":"0.4.1","deps":[],"cksum":"bd5c3b88252cd7d73efdd4c92caae306b67a32c2c694d1345b35f206ce0b57cf","features":{},"yanked":false,"links":"maliput-sdk"}
+{"name":"maliput-sdk","vers":"0.5.0","deps":[],"cksum":"2bc71a0c773054cc508a6c40733622dfa29475196cf897bf13e0186cc937f9ce","features":{},"yanked":false,"links":"maliput-sdk"}
