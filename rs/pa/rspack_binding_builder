@@ -1,0 +1,1 @@
+{"name":"rspack_binding_builder","vers":"0.2.1-alpha.0","deps":[{"name":"rspack_binding_api","req":"=0.2.1-alpha.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b75658de74ae8e18de0a321e600f7aadfc75eb7ea9ee30370139f8ff23a7ab3","features":{"plugin":["rspack_binding_api/plugin"]},"yanked":false}
