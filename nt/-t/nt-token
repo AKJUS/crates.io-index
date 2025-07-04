@@ -1,0 +1,1 @@
+{"name":"nt-token","vers":"0.1.0","deps":[{"name":"windows","req":"^0.61","features":["Win32_Foundation","Win32_Security","Win32_Security_Authorization","Win32_System_Threading","Win32_System_Memory"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27d3333a4dd672eb6bd877e159c4fca7f6212776ab2827def9efe89b97caf4c0","features":{},"yanked":false}
