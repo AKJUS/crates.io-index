@@ -6,3 +6,4 @@
 {"name":"rustkey","vers":"0.4.1","deps":[],"cksum":"dff73425be22e7e8208bfc319d6259a72fdcb4937dbe7162e81a7fc42ca59eea","features":{},"yanked":false}
 {"name":"rustkey","vers":"0.4.2","deps":[],"cksum":"767afcbd85a2fc63135bd27529aa1d0eb1f34b9d39785555fe9b3edf5be682c7","features":{},"yanked":false}
 {"name":"rustkey","vers":"0.4.3","deps":[],"cksum":"58a611ee2eb56d436e080a45ea31994c90545f4885f95155fbc91ca593ab39f9","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.5.0","deps":[],"cksum":"8a3cd1aaacad6778b77a4ec0822185c5b17ba65e153ca9bbb4841c6c1cdf38a3","features":{"blake2-firmware":[],"blake2-standalone":[],"default":["blake2-standalone"]},"yanked":false}
