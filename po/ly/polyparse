@@ -12,3 +12,4 @@
 {"name":"polyparse","vers":"0.4.1","deps":[],"cksum":"711f964d99c919070645fd004007d22b051440bdfe215c9ebffada236f39e334","features":{},"yanked":false}
 {"name":"polyparse","vers":"0.4.2","deps":[],"cksum":"d3b2ddb00e76e1203b57d07fc38eb9759531572a3d8881c7097c6537e120e562","features":{},"yanked":false}
 {"name":"polyparse","vers":"0.4.3","deps":[],"cksum":"526083e27fc79b1b4bb755856953a08a8e22033b3286704ed36071a5fa17c189","features":{},"yanked":false}
+{"name":"polyparse","vers":"0.4.4","deps":[],"cksum":"d695201eae9610b22a9efcd4d4fef87a8c9978b6065e5f9cdbfe794b6e064c3f","features":{},"yanked":false}
