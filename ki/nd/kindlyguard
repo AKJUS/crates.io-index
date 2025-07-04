@@ -1,1 +1,2 @@
 {"name":"kindlyguard","vers":"0.0.1","deps":[],"cksum":"66f677fadd04abc5443cb0afdf32a383f2f07ad5cf54b1fc8ffc92ca5a533d31","features":{},"yanked":false}
+{"name":"kindlyguard","vers":"0.9.1","deps":[{"name":"kindly-guard-server","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c4150465152159a33cdbe4617ce697bd07565beefd4ff9202a0107d333ef0aa","features":{},"yanked":false}
