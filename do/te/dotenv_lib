@@ -1,2 +1,3 @@
 {"name":"dotenv_lib","vers":"0.1.0","deps":[],"cksum":"9528a4356749ee234666905872c5b09746b6a31e18bf73ad9fbec57c41ea0052","features":{},"yanked":false}
 {"name":"dotenv_lib","vers":"0.1.1","deps":[],"cksum":"8fed628d47888181bc4f12bab34484c9a55708cd9503825fa99d2927a624a1d4","features":{},"yanked":false}
+{"name":"dotenv_lib","vers":"0.1.2","deps":[],"cksum":"ca7f31eccf8f29a765d6ce40bc4d8e1eacfd0cbdf3d8b8ffca37a2d6100d947f","features":{},"yanked":false}
