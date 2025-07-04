@@ -1,0 +1,1 @@
+{"name":"rspack_tasks","vers":"0.2.1-alpha.0","deps":[{"name":"tokio","req":"^1.42.0","features":["rt","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07f5659887488b0678717373f2dc8077ca583f10c5183cf56259fe0e541ad13f","features":{},"yanked":false}
