@@ -55,3 +55,4 @@
 {"name":"cryptocol","vers":"0.11.5-server-test.1","deps":[],"cksum":"d8f500400459250ade1a30d3fdb5f295d8379b2d982d531e4626f8b9994712f2","features":{},"yanked":false}
 {"name":"cryptocol","vers":"0.11.6","deps":[],"cksum":"07d07f57537d8aff373abcc87b0d70654ff29d6e61dbd3fcc566e30e5aa6839d","features":{},"yanked":false}
 {"name":"cryptocol","vers":"0.11.7","deps":[],"cksum":"95b2f7288f4dee2dbec426370280b6ce9bdc2111edbe59581be75b77dd12fb28","features":{},"yanked":false}
+{"name":"cryptocol","vers":"0.12.0","deps":[],"cksum":"7664eb06349949df734e7865cd40aa049912de5a3fa6763d1a10400816975d9f","features":{},"yanked":false}
