@@ -1,1 +1,2 @@
 {"name":"rgb-led-pwm-dma-maker","vers":"0.1.0","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae4356619bdfb13b29fcb7ef28f35309e69c8aa8f2fe042a29fb141fe7db389a","features":{},"yanked":false}
+{"name":"rgb-led-pwm-dma-maker","vers":"0.1.1","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11bc1c63d9c9c12b023fca99b7eb56138c6390dd802f6c819c155dda546963ce","features":{},"yanked":false}
