@@ -1,0 +1,1 @@
+{"name":"sudoko-tui","vers":"0.3.0","deps":[{"name":"sudoko","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b1fba7f990f08699cd26cd48100bb1e4961c9a76c55ab0a345aa23439e46171","features":{},"yanked":false}
