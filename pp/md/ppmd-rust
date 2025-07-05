@@ -6,3 +6,4 @@
 {"name":"ppmd-rust","vers":"1.1.1","deps":[],"cksum":"50eabe3f3130a87d325c0ef64da4c9e94c202d5468c02efb0d4f53ac194d7f5d","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"ppmd-rust","vers":"1.1.2","deps":[],"cksum":"e126019686f6e48cacf2dc0f5a95f418cf486e67953d39ed1222bbc2ad42af2b","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"ppmd-rust","vers":"1.2.0","deps":[],"cksum":"0c6ffc9eec149395a6ca5c6845bd15902af4143be813af254768fd1d66bf4025","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"ppmd-rust","vers":"1.2.1","deps":[],"cksum":"c834641d8ad1b348c9ee86dec3b9840d805acd5f24daa5f90c788951a52ff59b","features":{"default":[],"unstable-tagged-offsets":[]},"yanked":false,"rust_version":"1.82"}
