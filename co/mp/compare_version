@@ -15,3 +15,4 @@
 {"name":"compare_version","vers":"0.3.4","deps":[],"cksum":"79d011ca1d9b1477f66d2d95ff9217477b7b4ad17ac0caff07efbe701214f5b9","features":{},"yanked":false}
 {"name":"compare_version","vers":"0.3.5","deps":[],"cksum":"bb2ac72aa5792b074a6c102860d19fb7d1b89b289f39c8ac979d063a117d777b","features":{},"yanked":false}
 {"name":"compare_version","vers":"1.0.0","deps":[],"cksum":"8a81172d3a2eb49276707c98711f3ea49a11f5566e4cb3092c738bbb7fd2098b","features":{},"yanked":false}
+{"name":"compare_version","vers":"1.0.1","deps":[],"cksum":"6638ec269e85c3ac62264e8320bed58e4e09a9eb0eefd63c2fd3f0fead65b3d8","features":{},"yanked":false}
