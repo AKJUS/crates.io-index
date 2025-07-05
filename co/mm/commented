@@ -1,0 +1,1 @@
+{"name":"commented","vers":"0.1.0","deps":[{"name":"globset","req":"^0.4.16","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a0fb54f46f1d8555bef2aab405702fb6fa45ed36424b2fe0468cea604edb665","features":{},"features2":{"glob":["dep:globset"]},"yanked":false,"v":2}
