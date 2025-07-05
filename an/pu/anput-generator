@@ -2,3 +2,4 @@
 {"name":"anput-generator","vers":"0.15.8","deps":[],"cksum":"31fe670617cd2ccf3e16e3e02dd7ee4c66ab08918e2c20c4e6d5079993f14af7","features":{},"yanked":false}
 {"name":"anput-generator","vers":"0.15.9","deps":[],"cksum":"ce86b59fc86f55155c8fe4efd489876b984342f92b004a24a886a363ba6cb4ed","features":{},"yanked":false}
 {"name":"anput-generator","vers":"0.15.10","deps":[],"cksum":"7e105d17ad73f80f61aa42ee730c8e10842ae785428b3c2ad69718c120c425ca","features":{},"yanked":false}
+{"name":"anput-generator","vers":"0.15.11","deps":[],"cksum":"3175c966bc5744d2d9b01eacf708c6249f92bea228a756c0d05b10ff85c69fbb","features":{},"yanked":false}
