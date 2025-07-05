@@ -1,1 +1,0 @@
-{"name":"osom_tools_macros","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cc38c9999973f5d0cdb8b177aa0e8f3bb17f433afe09aba740d36d6c0ee6f55f","features":{},"yanked":false,"rust_version":"1.85"}
