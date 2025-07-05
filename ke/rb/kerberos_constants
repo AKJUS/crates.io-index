@@ -7,3 +7,4 @@
 {"name":"kerberos_constants","vers":"0.0.7","deps":[],"cksum":"8e1f1433fe1067862768d7c48e8258b5041bb34b7b6b7f26d46909a347778dbf","features":{},"yanked":false}
 {"name":"kerberos_constants","vers":"0.0.8","deps":[],"cksum":"71be9233d4659356f0ffb13cfd73846099edd0d522a5b2d231e1d97b578477cb","features":{},"yanked":false}
 {"name":"kerberos_constants","vers":"0.0.9","deps":[],"cksum":"eba4eb8f77e2e5727d337663bb0f38632a05620bc9abab37aead47c7f5c7a3bd","features":{},"yanked":false}
+{"name":"kerberos_constants","vers":"0.0.10","deps":[],"cksum":"1fbbf18561f6e14ddc68c00d9dc69b51916dbe5e4c929758f350e02934c2b593","features":{},"yanked":false}
