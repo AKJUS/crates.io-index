@@ -1,0 +1,1 @@
+{"name":"takeaway","vers":"0.0.1","deps":[{"name":"atomig","req":"^0.4.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"694681c71a21e55619088bdd9949c6adfc0c90d13810a9e2587f705969440168","features":{"default":[]},"yanked":false,"rust_version":"1.85.0"}
