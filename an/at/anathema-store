@@ -6,3 +6,4 @@
 {"name":"anathema-store","vers":"0.2.5","deps":[],"cksum":"729fedc69977dd9027785d29300052a7d83e8d6b912c8872c667515eaa54c943","features":{},"yanked":false}
 {"name":"anathema-store","vers":"0.2.6","deps":[],"cksum":"5549beaefeede92a6400340075ad055ff866415ddde9110e30abb9c4796b7b91","features":{},"yanked":false}
 {"name":"anathema-store","vers":"0.2.7","deps":[],"cksum":"adffce7781f2b3b5ffbf0748a2b081440a010c9f794b18a6d9758f4548fce171","features":{},"yanked":false}
+{"name":"anathema-store","vers":"0.2.8","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3952e417195d7f6719524732af7ff2e63ac72a53c9bdfc517b22391c252a628","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
