@@ -33,3 +33,4 @@
 {"name":"ra_ap_edition","vers":"0.0.288","deps":[],"cksum":"fb5538d534eeb8526071610664dc64b71ca336b78f6933ff7241d10c1f37e91b","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"ra_ap_edition","vers":"0.0.289","deps":[],"cksum":"6a513da0d1f572c1497574babc07ff92b83adaa569705c5307be1dd67e82e6f8","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"ra_ap_edition","vers":"0.0.290","deps":[],"cksum":"22a344a5fb4ea961fccfd589e11c931198696050712133dbe2a0852301e4922f","features":{},"yanked":false,"rust_version":"1.86"}
+{"name":"ra_ap_edition","vers":"0.0.291","deps":[],"cksum":"d81503cc9938675f0d830d22ceabafefacadb36d3ad133e554e8cfeac98893a3","features":{},"yanked":false,"rust_version":"1.86"}
