@@ -6,3 +6,4 @@
 {"name":"anathema-geometry","vers":"0.2.5","deps":[],"cksum":"b4d2de4f72a269ec13a216fe426d0cf4cfdc4a6f95a8db836d56e40c09e84b21","features":{},"yanked":false}
 {"name":"anathema-geometry","vers":"0.2.6","deps":[],"cksum":"467315f5b0e93c4fc7045f40ebbd751ed62a2f9dbec3333c35801a1f19c3962b","features":{},"yanked":false}
 {"name":"anathema-geometry","vers":"0.2.7","deps":[],"cksum":"fb446f6f90108712d255bc889decb89dccda75a7620c241350d91010a33554ad","features":{},"yanked":false}
+{"name":"anathema-geometry","vers":"0.2.8","deps":[],"cksum":"bf1bb43f2b03dee4baca8eabc3884bdbb476068fd52991cfe61943a695cd329b","features":{},"yanked":false}
