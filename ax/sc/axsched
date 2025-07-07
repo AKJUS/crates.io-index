@@ -1,0 +1,1 @@
+{"name":"axsched","vers":"0.3.0","deps":[{"name":"linked_list_r4l","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44de469da35f912194e4104cc2f51bff63d6c184b65b6ebf8e90e2cd162b7f3c","features":{},"yanked":false,"rust_version":"1.76"}
