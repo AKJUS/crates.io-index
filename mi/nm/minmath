@@ -4,3 +4,4 @@
 {"name":"minmath","vers":"0.3.1","deps":[],"cksum":"89782cc1b4caa60fc17b6070bbe7eacb85771384b05652c71e78a2e812994f6b","features":{},"yanked":false}
 {"name":"minmath","vers":"0.3.2","deps":[],"cksum":"8112c7a09da61786609846df2b35fc92aa6ad4cd076218b4a1fe81fb5a39a220","features":{},"yanked":false}
 {"name":"minmath","vers":"0.3.3","deps":[],"cksum":"378db14afee00d6fe132b35a3193c26eb125c52065e8dd987df4350f6b6ae66f","features":{},"yanked":false}
+{"name":"minmath","vers":"0.4.0","deps":[],"cksum":"4b33f401d7059d40af3b65a9ed7568f72443ceada3436c90d2cb69930c712f1c","features":{},"yanked":false}
