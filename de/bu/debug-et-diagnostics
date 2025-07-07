@@ -2,3 +2,4 @@
 {"name":"debug-et-diagnostics","vers":"0.0.2","deps":[],"cksum":"66215faa8c96858058a888fa90225672f1613039ee8a552a545bd3f0d214e156","features":{},"yanked":false}
 {"name":"debug-et-diagnostics","vers":"0.1.0","deps":[],"cksum":"fb8bfe4838141a5a3d1501831052e5fd0d05242ab5fadf8182590073fec9e66f","features":{},"yanked":false}
 {"name":"debug-et-diagnostics","vers":"0.1.1","deps":[],"cksum":"bf7dd9e9d8a4bd015cf4778e3a5d969b131c77495a79f2eea15fbec7fc8aeda6","features":{},"yanked":false}
+{"name":"debug-et-diagnostics","vers":"0.1.2","deps":[],"cksum":"2deced99c4ab456b5e0a7e18fb3249b3f135b0fd1f891784050504ddbdb60b81","features":{},"yanked":false}
