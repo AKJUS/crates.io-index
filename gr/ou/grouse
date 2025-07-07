@@ -1,0 +1,1 @@
+{"name":"grouse","vers":"0.1.0","deps":[{"name":"grouse-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c05dccbc6969e98e206102f742a6815796ef47559b837197425f13af8de3446","features":{},"yanked":false}
