@@ -7,3 +7,4 @@
 {"name":"rp_sandbox_a","vers":"0.7.0","deps":[],"cksum":"c3be19dcd0f49baf731cb39f73689a65d794b7280f04e5dbf3eb1fbe15b0c28a","features":{},"yanked":false}
 {"name":"rp_sandbox_a","vers":"0.8.0","deps":[],"cksum":"9817ad495b6409595015fd5eb4d8275c1d9ca1c64f41eb240aaf0f13ca3c8a7f","features":{},"yanked":false}
 {"name":"rp_sandbox_a","vers":"0.9.0","deps":[],"cksum":"4cd02df964d0008f17cc0ecc122993fd869ff8546323216022a5579551f01763","features":{},"yanked":false}
+{"name":"rp_sandbox_a","vers":"0.10.0","deps":[],"cksum":"650a8c83c7625a9ff35ffdbb424074ff82471c42a31924182287a6395272f43d","features":{},"yanked":false}
