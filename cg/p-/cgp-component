@@ -5,3 +5,4 @@
 {"name":"cgp-component","vers":"0.4.1-alpha","deps":[],"cksum":"d86263a6c167a1b3a9382a739c1e160d759b47dfca246b8d21d6e4e8a3a5c6db","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"cgp-component","vers":"0.4.1","deps":[],"cksum":"3e0ec1d668fbf5ef7c973942a1853eebcc9ef0e0422033e11ba2ad11e97d6781","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"cgp-component","vers":"0.4.2-alpha","deps":[],"cksum":"d315103778c099d7b4818d67840cb9e78a6748e8dcd3052fcd1f46d94560edf8","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.4.2","deps":[],"cksum":"87bd60d133ed741917908dc86a3f3baff697dd88e75c1576b615f65fcf4ffd21","features":{},"yanked":false,"rust_version":"1.81"}
