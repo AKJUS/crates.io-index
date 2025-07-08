@@ -2,3 +2,4 @@
 {"name":"app-path","vers":"0.1.1","deps":[],"cksum":"9ba5e8c2ac96933b8f550c6b262f468667afd6a6626aa5c26c2409a4c2335010","features":{},"yanked":false}
 {"name":"app-path","vers":"0.1.2","deps":[],"cksum":"f058c8f94f9b1a5c64745f16c584a59cc6e089af4532ff5a08a13c80ca3312bb","features":{},"yanked":false}
 {"name":"app-path","vers":"0.2.0","deps":[],"cksum":"4cfd11c7954d56c0a916dd4ed9c8b570c89d87229bf724c5a851bb9f36efd3db","features":{},"yanked":false}
+{"name":"app-path","vers":"0.2.1","deps":[],"cksum":"6c81ba9521e8efc46835c9944d60d60da7a1a2a5e6269d9a0e57d35751edf87d","features":{},"yanked":false}
