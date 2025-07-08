@@ -5,3 +5,4 @@
 {"name":"minmath","vers":"0.3.2","deps":[],"cksum":"8112c7a09da61786609846df2b35fc92aa6ad4cd076218b4a1fe81fb5a39a220","features":{},"yanked":false}
 {"name":"minmath","vers":"0.3.3","deps":[],"cksum":"378db14afee00d6fe132b35a3193c26eb125c52065e8dd987df4350f6b6ae66f","features":{},"yanked":false}
 {"name":"minmath","vers":"0.4.0","deps":[],"cksum":"4b33f401d7059d40af3b65a9ed7568f72443ceada3436c90d2cb69930c712f1c","features":{},"yanked":false}
+{"name":"minmath","vers":"0.4.1","deps":[],"cksum":"dbb72eb460a78db851c20c52c18aafb8e53e62f7fca284c0f33787bcc0f4c33c","features":{},"yanked":false}
