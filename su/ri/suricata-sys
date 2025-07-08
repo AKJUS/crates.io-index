@@ -1,3 +1,4 @@
 {"name":"suricata-sys","vers":"8.0.0-beta1","deps":[],"cksum":"f5a489dba257e907ee804b4a2cb5aed9ab3b46f26486fac9af3e85d5c2a7b17d","features":{},"yanked":false}
 {"name":"suricata-sys","vers":"8.0.0-rc1","deps":[],"cksum":"70416b8473341c01670b892b6c86067affe8be7e9300fc78b290078ca00b0417","features":{},"yanked":true}
 {"name":"suricata-sys","vers":"8.0.0-rc1.1","deps":[],"cksum":"52a0964578e7716d161300a982c58f5a34f8bf0c18915574738280ec702bc4e7","features":{},"yanked":false}
+{"name":"suricata-sys","vers":"8.0.0","deps":[],"cksum":"5b7e24938af4d4d5da41d3eee6711318d8b47bf57ab814210aa5be30de34db44","features":{},"yanked":false}
