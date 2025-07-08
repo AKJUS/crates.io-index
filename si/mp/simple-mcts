@@ -1,0 +1,1 @@
+{"name":"simple-mcts","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72a9d5a0a71482e46ada05336f91816871963bc48c33a01dfd28534587edee60","features":{},"yanked":false}
