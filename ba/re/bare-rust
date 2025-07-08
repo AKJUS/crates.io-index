@@ -1,0 +1,1 @@
+{"name":"bare-rust","vers":"0.0.0","deps":[{"name":"bare-rust-ffi","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d1f39842cfb491ea3e121a2afd02a34f9eaa656cd4baa5d001ae0f1c1f25175","features":{},"yanked":false}
