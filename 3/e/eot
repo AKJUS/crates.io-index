@@ -2,3 +2,4 @@
 {"name":"eot","vers":"0.1.1","deps":[],"cksum":"db5dad2ebc41c786ec4aaf7294cb1669f4e4beb46a286a407e3c6d09f7a005a2","features":{"default":["std"],"std":[],"unified-opcodes":[]},"yanked":false}
 {"name":"eot","vers":"0.1.2","deps":[],"cksum":"13ef44f3aa3758f9b58e13be29f12f0c66660436b3e9786446137d5aa796a0a1","features":{"default":["std"],"std":[],"unified-opcodes":[]},"yanked":false}
 {"name":"eot","vers":"0.1.3","deps":[],"cksum":"5f68882ae868255ca621698f03d73112ce5e06648c75ab5d3cd228923a53d83c","features":{"default":["std"],"std":[],"unified-opcodes":[]},"yanked":false}
+{"name":"eot","vers":"0.1.4","deps":[],"cksum":"d7b9bf3183fa9b96168720f42fc576cd3c27b993cea5ff67b37ed162eb14cf09","features":{"default":["std"],"std":[],"unified-opcodes":[]},"yanked":false}
