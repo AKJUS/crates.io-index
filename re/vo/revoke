@@ -1,0 +1,1 @@
+{"name":"revoke","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa46a2bb687ee46ab9c8bf5cae2711a255876036f326980cacfd647e48d1d796","features":{},"yanked":false}
