@@ -1,0 +1,1 @@
+{"name":"pindakaas-cadical","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3b977336fd58bca8a0d5a21f0da4ebd14d4b98cceacc971018fcccecdb0a0239","features":{"tracing":[]},"yanked":false,"links":"cadical"}
