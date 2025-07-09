@@ -1,0 +1,1 @@
+{"name":"nonmaxunsigned","vers":"0.1.0","deps":[],"cksum":"7ae61e7c85efb786eb5888a68ee9aa6a9d748d92363f4e7f4d480ba0780ed65b","features":{"checked-ops":[],"default":["checked-ops"]},"yanked":false,"rust_version":"1.85"}
