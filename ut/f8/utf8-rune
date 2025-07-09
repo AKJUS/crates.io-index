@@ -1,0 +1,1 @@
+{"name":"utf8-rune","vers":"0.0.0","deps":[{"name":"debug-et-diagnostics","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"99fbdb838065e655b81dbc311b0c81b1fc5b3c65aea1540edc85aae955c879b3","features":{"debug":[]},"yanked":false}
