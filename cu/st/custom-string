@@ -1,2 +1,3 @@
 {"name":"custom-string","vers":"0.1.0","deps":[],"cksum":"35687fee9d64709c0e6666a57374a325c9be884402fe7d5042801a3cb5c29369","features":{},"yanked":false}
 {"name":"custom-string","vers":"0.2.0","deps":[],"cksum":"17f8856b1914c9d403a18d45200ccc730daf050a5784deb1c8bc77fdf33ccca8","features":{},"yanked":false}
+{"name":"custom-string","vers":"0.3.0","deps":[],"cksum":"92172f4185c6c6d83436c6421c418afdf89e170cccac3418a54d01e0255dbc57","features":{},"yanked":false}
