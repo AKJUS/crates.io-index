@@ -1,1 +1,2 @@
 {"name":"pareto","vers":"0.1.0","deps":[],"cksum":"702edd974cbd53ed2bd1986ec8ee1152cc70a2d38ae9f0949d76e63468b194b1","features":{},"yanked":false}
+{"name":"pareto","vers":"2.1.1","deps":[],"cksum":"e572589790c9a896df38cf7f117dccafb7632e448cc16d18dab3c413f15a46ba","features":{},"yanked":false,"rust_version":"1.75"}
