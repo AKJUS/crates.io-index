@@ -1,2 +1,3 @@
 {"name":"generational-buffer","vers":"1.0.0","deps":[],"cksum":"97c44ebd4a753822cae21127ac41f07a3317ca06ff8444f869b61ac8e9e69558","features":{},"yanked":false}
 {"name":"generational-buffer","vers":"1.0.1","deps":[],"cksum":"9fcdc63d8d97d80920e666acf66fb0c574f6bf5e249075f7527b05ed17d6e9f4","features":{},"yanked":false}
+{"name":"generational-buffer","vers":"1.0.2","deps":[],"cksum":"03fbad0485cb139c0782e0bd8e1fe7f09e23e9d6a7d43b805c1f6ead1aefdb02","features":{},"yanked":false}
