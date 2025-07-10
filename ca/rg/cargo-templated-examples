@@ -1,0 +1,1 @@
+{"name":"cargo-templated-examples","vers":"0.1.0","deps":[{"name":"cargo_toml","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9487949f7cdffdbdd1ef666780dca3e4ff2633ee5019c23d6dc07b5a7d242146","features":{"strict":[]},"yanked":false}
