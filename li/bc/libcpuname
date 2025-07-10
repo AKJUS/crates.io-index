@@ -1,0 +1,1 @@
+{"name":"libcpuname","vers":"0.1.0","deps":[],"cksum":"6138f8d72f050b7ecc13220437ff89ee3ff85177cb1498fbc63e712303d52736","features":{"arm":[],"default":["native","std"],"native":[],"riscv":[],"std":[],"x86":[]},"yanked":false,"rust_version":"1.58"}
