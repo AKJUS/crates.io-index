@@ -4,3 +4,4 @@
 {"name":"http-wasm-guest","vers":"0.3.0","deps":[],"cksum":"c7ce1d67341b7c5a904c1cd24a44bc87497f4e84bc75bc04603006e994b878ea","features":{},"yanked":false}
 {"name":"http-wasm-guest","vers":"0.4.0","deps":[],"cksum":"ae0585d5c3347b50be383d255e1ece1d26898bf2302fc391abf8e02e85e5b180","features":{},"yanked":false}
 {"name":"http-wasm-guest","vers":"0.5.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bd32c0cc7c5cb25d744e98799d9b91afcc639b3106ca8e4962fcc0670cf0dbf","features":{},"yanked":false}
+{"name":"http-wasm-guest","vers":"0.5.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2956130a17388e30059d416b8b263a4ee76b21bb42b0189646b9aab01fcea10c","features":{},"yanked":false}
