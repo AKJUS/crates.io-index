@@ -1,1 +1,2 @@
 {"name":"libcpuname","vers":"0.1.0","deps":[],"cksum":"6138f8d72f050b7ecc13220437ff89ee3ff85177cb1498fbc63e712303d52736","features":{"arm":[],"default":["native","std"],"native":[],"riscv":[],"std":[],"x86":[]},"yanked":false,"rust_version":"1.58"}
+{"name":"libcpuname","vers":"0.1.1","deps":[],"cksum":"9cf5959dc76ecaf77fd48d35549a64b4369f77674a18f9b37adc9a34512a56af","features":{"arm":[],"default":["native","std"],"native":[],"riscv":[],"std":[],"x86":[]},"yanked":false,"rust_version":"1.58"}
