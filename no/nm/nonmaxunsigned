@@ -1,1 +1,2 @@
 {"name":"nonmaxunsigned","vers":"0.1.0","deps":[],"cksum":"7ae61e7c85efb786eb5888a68ee9aa6a9d748d92363f4e7f4d480ba0780ed65b","features":{"checked-ops":[],"default":["checked-ops"]},"yanked":true,"rust_version":"1.85"}
+{"name":"nonmaxunsigned","vers":"1.0.0","deps":[],"cksum":"b94f8f3e990aedacc46cf8ffc51075007f5ac8a80518d6cc4178214563f94b5f","features":{"checked-ops":[],"default":["checked-ops"]},"yanked":false,"rust_version":"1.87"}
