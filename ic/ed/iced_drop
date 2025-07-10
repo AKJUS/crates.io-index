@@ -1,0 +1,1 @@
+{"name":"iced_drop","vers":"0.1.1","deps":[{"name":"iced","req":"^0.13","features":["advanced"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3fa4fc8e2fb6b8ade7e396cdeb435506055fdc97ea547f79110d36fbd4be78b","features":{},"yanked":false}
