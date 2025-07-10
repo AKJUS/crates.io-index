@@ -7,3 +7,4 @@
 {"name":"minmath","vers":"0.4.0","deps":[],"cksum":"4b33f401d7059d40af3b65a9ed7568f72443ceada3436c90d2cb69930c712f1c","features":{},"yanked":false}
 {"name":"minmath","vers":"0.4.1","deps":[],"cksum":"dbb72eb460a78db851c20c52c18aafb8e53e62f7fca284c0f33787bcc0f4c33c","features":{},"yanked":false}
 {"name":"minmath","vers":"0.4.2","deps":[],"cksum":"166fb0ab8172de685c6fc86204fc0d08f96bf29a55537e4f71c5b1c634c2a5ec","features":{},"yanked":false}
+{"name":"minmath","vers":"0.4.3","deps":[],"cksum":"c930113d89a62b3c9ac715db2827053917aebd15db09e3ca9bc787450caec31c","features":{},"yanked":false}
