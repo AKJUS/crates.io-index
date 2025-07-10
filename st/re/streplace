@@ -5,3 +5,4 @@
 {"name":"streplace","vers":"2.1.1","deps":[],"cksum":"bba52f615197fc903127a052797024da80e2e6959042232f7c4ac13044cf2572","features":{},"yanked":false}
 {"name":"streplace","vers":"2.2.0","deps":[],"cksum":"97a6ddc340b07b95d8bc7314a5473367b1b9ffc63b891c86ac7d528f37558eba","features":{},"yanked":false}
 {"name":"streplace","vers":"2.2.1","deps":[],"cksum":"7a5d17d8eae933b0cb1b14d89defe7407e5539814cfb5f0d97c80c50b963557c","features":{},"yanked":false}
+{"name":"streplace","vers":"3.0.0","deps":[],"cksum":"2864e0103f4aff8e14615c044856d6fd7c48b2df44f2795d957d48cff13d48df","features":{"convenience":[],"default":["result","convenience"],"result":[]},"yanked":false}
