@@ -3,3 +3,4 @@
 {"name":"nojson","vers":"0.1.2","deps":[],"cksum":"7a6c9ff732ef44506baf68a5851fc47547084562c8ed441908c605e75e516000","features":{},"yanked":false}
 {"name":"nojson","vers":"0.1.3","deps":[],"cksum":"8fc252af38a3a531016fb3ddbd98e83f11a03baaf1d136ad59e140b06255a1b7","features":{},"yanked":false}
 {"name":"nojson","vers":"0.2.0","deps":[],"cksum":"5b7ed83507083b61ec90ed5af1babd2f174967c3ac252b2accce10b6269df9a6","features":{},"yanked":false}
+{"name":"nojson","vers":"0.2.1","deps":[],"cksum":"f79bcf4dfb2f1beb2574b9234e49147be3f21a715ae9242dbe52f0856849bd20","features":{},"yanked":false}
