@@ -27,3 +27,4 @@
 {"name":"gim","vers":"1.0.1","deps":[],"cksum":"49cfaef136fc30a66ae4d87221cd784b8389e70256e1330f63db54c318e6bc51","features":{},"yanked":false}
 {"name":"gim","vers":"1.1.0","deps":[],"cksum":"37a3edca1ce0d19d86643bfcb84c5b31770f1412aa41b8e4b83adee1883d7099","features":{},"yanked":false}
 {"name":"gim","vers":"1.1.1","deps":[],"cksum":"4946d8a703a8136a52bf61a5f935863c5a11ba1aaf2874d2d11f9379cb63aaaa","features":{},"yanked":false}
+{"name":"gim","vers":"1.1.2","deps":[],"cksum":"9e068b9b6dd51761d58afb7e77932a04f3863dd268a8051ffa6692d8802d929b","features":{},"yanked":false}
