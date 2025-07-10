@@ -1,0 +1,1 @@
+{"name":"ps-rwt","vers":"0.1.0-0","deps":[{"name":"parking_lot","req":"^0.12.4","features":["arc_lock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52da9cf5b8c439dfe79325d0e84ca6749e2c368ad9e1987885fd22aa44bdcf79","features":{},"yanked":false}
