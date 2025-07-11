@@ -7,3 +7,4 @@
 {"name":"rate-guard-core","vers":"0.5.0","deps":[],"cksum":"369a969ee7f3741d7d66e1350047f645ecb55987efad5bbdb6061c182c8eef50","features":{"default":["tick_u64"],"tick_u128":[],"tick_u64":[]},"yanked":false,"rust_version":"1.60"}
 {"name":"rate-guard-core","vers":"0.5.2","deps":[],"cksum":"ba0e3950b19153c2b87b3e475b560f939a355660d7bf8824ea7501a95d320744","features":{"default":["tick_u64"],"tick_u128":[],"tick_u64":[]},"yanked":false,"rust_version":"1.60"}
 {"name":"rate-guard-core","vers":"0.6.0","deps":[],"cksum":"8331befeb372b61de13aa57bae6733f80647acb5879cb113f36c464a7ae10589","features":{"default":["tick_u64"],"tick_u128":[],"tick_u64":[]},"yanked":false,"rust_version":"1.60"}
+{"name":"rate-guard-core","vers":"0.6.1","deps":[],"cksum":"6f64666eacabcbf7d87ebc7ddf8277f0aa7a235916f36dd42109e99b8ac17baf","features":{"default":["tick_u64"],"tick_u128":[],"tick_u64":[]},"yanked":false,"rust_version":"1.60"}
