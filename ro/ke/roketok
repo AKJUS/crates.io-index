@@ -1,0 +1,1 @@
+{"name":"roketok","vers":"0.1.0","deps":[{"name":"thin-vec","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"349af34cb2b1fcb88115887a19742a5477fe117bae5e009e364f90060195a623","features":{},"yanked":false}
