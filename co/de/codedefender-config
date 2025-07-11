@@ -1,0 +1,1 @@
+{"name":"codedefender-config","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66151f29599f9d8b8bc8477e11615141a3fee7e560642d2c27683739d3e8dc3d","features":{},"yanked":false}
