@@ -1,1 +1,2 @@
 {"name":"roketok","vers":"0.1.0","deps":[{"name":"thin-vec","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"349af34cb2b1fcb88115887a19742a5477fe117bae5e009e364f90060195a623","features":{},"yanked":false}
+{"name":"roketok","vers":"0.1.1","deps":[{"name":"thin-vec","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3f10f19d1f8fc95546596ec7b9c2b498b3b69407ca8770ee44e230bae026923","features":{},"yanked":false}
