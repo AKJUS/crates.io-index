@@ -1,1 +1,2 @@
 {"name":"codedefender-config","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66151f29599f9d8b8bc8477e11615141a3fee7e560642d2c27683739d3e8dc3d","features":{},"yanked":false}
+{"name":"codedefender-config","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63d86e64ac18b58c82bd815139008547a2a4d89f2d093f1f1b9d1648475e0812","features":{},"yanked":false}
