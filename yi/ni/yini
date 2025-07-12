@@ -1,0 +1,1 @@
+{"name":"yini","vers":"0.1.0","deps":[{"name":"seq-map","req":"^0.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"741ae5ecae87a806b223e19486f4a59ceeeae0264d7c875a2d284768bb912e30","features":{},"yanked":false}
