@@ -3,3 +3,4 @@
 {"name":"roketok","vers":"0.1.2","deps":[{"name":"thin-vec","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6820c870e38eb7e6133c9200ad1f35b8426ea1d046f6cd2cfc8e566f5f58347","features":{},"yanked":false}
 {"name":"roketok","vers":"0.1.3","deps":[{"name":"thin-vec","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6ecc87d21d312a29dc3ec55dd50f45a7e08b0a3cfcc64abccbb47543177c4c8","features":{},"yanked":false}
 {"name":"roketok","vers":"0.1.3-p1","deps":[{"name":"thin-vec","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f36ec51060c1a1fefc3b1f007876c600aaba16e0feacbfb1e0c465fa5cb4d36e","features":{},"yanked":false}
+{"name":"roketok","vers":"0.1.4","deps":[],"cksum":"24fb72bf5bf8b2defcaf2c5d61309e051c2faa65ad5e08a402259fd845602d92","features":{},"yanked":false}
