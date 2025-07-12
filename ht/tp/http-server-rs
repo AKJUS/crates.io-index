@@ -14,3 +14,4 @@
 {"name":"http-server-rs","vers":"0.1.13","deps":[],"cksum":"ed8414de0ae1c982504e239d2d60a5d1de572bc4da9f3ae75cbf57d1dda361e2","features":{},"yanked":false}
 {"name":"http-server-rs","vers":"0.1.14","deps":[],"cksum":"02b9d5d2afd7e45c9e75332e4edcc844d5cfe8297c1da42d64484b27ec654812","features":{},"yanked":false}
 {"name":"http-server-rs","vers":"0.1.15","deps":[],"cksum":"b1cf94ca17132e6d2a84f1dc8c2f6b1fc1a6cecf62926618f3e771a8082d8df0","features":{},"yanked":false}
+{"name":"http-server-rs","vers":"0.1.16","deps":[],"cksum":"15f76846719bff71fa065e6852b228ad1597bf7f254da966007822b8769bb3d1","features":{},"yanked":false}
