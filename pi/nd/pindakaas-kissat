@@ -1,0 +1,1 @@
+{"name":"pindakaas-kissat","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c400081895f9d5ab58515007b1d6cc7338f66a0d3a5c9558afce62b533b942a3","features":{},"yanked":false,"links":"kissat"}

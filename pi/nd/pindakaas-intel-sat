@@ -1,0 +1,1 @@
+{"name":"pindakaas-intel-sat","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6e7598bf3d878b2aa6393ae227c253da2bb2aa189e3ca908d89f747598a71552","features":{},"yanked":false,"links":"intel_sat"}

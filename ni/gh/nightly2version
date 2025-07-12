@@ -14,3 +14,4 @@
 {"name":"nightly2version","vers":"1.86.0","deps":[],"cksum":"ae22d164a6d0d8e57f9181eccccc8c113892ef2c3b53278a92f96e9231bf5b41","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"nightly2version","vers":"1.88.0","deps":[],"cksum":"dedd1580e54ad0dcb4b169cd616422612c9e166ac00437ca645f864f084756a9","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"nightly2version","vers":"1.87.0","deps":[],"cksum":"6d91e5ab9fa1384e4d01095575774d71dc5f256c68c480c648069416017bfc2d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"nightly2version","vers":"1.88.0-1","deps":[],"cksum":"ac7c358ad02c6a77ccf799f507994b1a1357ea8dc52ed9828f073080d39207b1","features":{"default":["std"],"std":[]},"yanked":false}

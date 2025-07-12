@@ -2,3 +2,4 @@
 {"name":"btfparse","vers":"1.3.1","deps":[],"cksum":"25d1a45b8f8282f01d303a6a4e6bf2f5ddde9d9cf33feb13b935bddec033b738","features":{},"yanked":false}
 {"name":"btfparse","vers":"1.3.2","deps":[],"cksum":"474048e42000ae505de2aa5d7785a4cabf67452ac5a8aa0ae94a78b6118c44ed","features":{},"yanked":false}
 {"name":"btfparse","vers":"1.3.3","deps":[],"cksum":"45e8eef2ecb2b4e653606ba8783c139b2ab367fbb7fb0e8d647f9f466dae0b4a","features":{},"yanked":false}
+{"name":"btfparse","vers":"1.3.4","deps":[],"cksum":"3e60ff527d9e08b07aeacf1e2058f86657a7ac4b9ad3fa48ea82ec4a1cce4feb","features":{},"yanked":false}
