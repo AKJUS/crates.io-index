@@ -4,3 +4,4 @@
 {"name":"app-path","vers":"0.2.0","deps":[],"cksum":"4cfd11c7954d56c0a916dd4ed9c8b570c89d87229bf724c5a851bb9f36efd3db","features":{},"yanked":false}
 {"name":"app-path","vers":"0.2.1","deps":[],"cksum":"6c81ba9521e8efc46835c9944d60d60da7a1a2a5e6269d9a0e57d35751edf87d","features":{},"yanked":false}
 {"name":"app-path","vers":"0.2.2","deps":[],"cksum":"305ce86eb21a366d31b0e5c8c04d44a0c07aade9a386ba6cecb6265980b7395f","features":{},"yanked":false}
+{"name":"app-path","vers":"0.2.3","deps":[],"cksum":"317c0b545aa54955f9b40e22a821142dd2ab47045fef9ab8fdc4b1926ee9ccad","features":{},"yanked":false}
