@@ -24,3 +24,4 @@
 {"name":"sunspec-models","vers":"0.5.21","deps":[],"cksum":"cabf84a33028b5be4f7125edbc99596699918aad5318adb13ea104825ee09759","features":{},"yanked":false}
 {"name":"sunspec-models","vers":"0.5.22","deps":[],"cksum":"c4ac56fa50620116ecc366c1d0995a7cf89096d9a74171c261b5709577286e5a","features":{},"yanked":false}
 {"name":"sunspec-models","vers":"0.5.23","deps":[],"cksum":"95f49066b6280fdb562141c53bf3149f4f25b691d3d0b4568e03e30ef9ab2473","features":{},"yanked":false}
+{"name":"sunspec-models","vers":"0.5.24","deps":[],"cksum":"0fd3bbfe2f7451f9b6a74ee844a423b424347751e26af46e67ec26e743b35999","features":{},"yanked":false}
