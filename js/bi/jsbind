@@ -1,0 +1,1 @@
+{"name":"jsbind","vers":"0.1.0","deps":[{"name":"emlite","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be5c6f882f478a26a0d9f349b30512770cef7a22f5b9ba0d997472b99d047b7f","features":{},"yanked":false}
