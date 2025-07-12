@@ -1,0 +1,1 @@
+{"name":"cate","vers":"0.1.1","deps":[{"name":"palette","req":"^0.7.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ratatui","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"961b475d402dfd36733e4748346944a3143216a74d890ed4ba335b16743a189c","features":{},"yanked":false}
