@@ -1,1 +1,2 @@
 {"name":"safe_unaligned_simd","vers":"0.1.0","deps":[],"cksum":"3f6b58704bd39f167c1ae7c4812c1d187dd141ee952f0aff57d2251ea3e3ad34","features":{"_avx_test":[],"default":[]},"yanked":false,"rust_version":"1.87"}
+{"name":"safe_unaligned_simd","vers":"0.1.1","deps":[],"cksum":"a44b157361074c844be6cbb1db49380b2ba4ecd3e4bf64c73d340466b10064d4","features":{"_avx_test":[],"default":[]},"yanked":false,"rust_version":"1.87"}
