@@ -1,0 +1,1 @@
+{"name":"ptr-utils","vers":"0.1.0","deps":[],"cksum":"70ec012c0b37553885eb183c69874c9ae627daf6ee8c1efac61de1842cf7a3d5","features":{"default":["std"],"std":[]},"yanked":false}
