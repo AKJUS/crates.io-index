@@ -1,3 +1,4 @@
 {"name":"tiny_prng","vers":"0.2.0","deps":[],"cksum":"455b87822885639d45d8370af38b49e3cd479c106e4613ed28473a46bd2a315e","features":{},"yanked":false}
 {"name":"tiny_prng","vers":"0.2.0-rc1","deps":[],"cksum":"aafafe956ad36fb5e7fe58a1ba1bf3634f5576d77491a9feef517b5df7cf5521","features":{},"yanked":false}
 {"name":"tiny_prng","vers":"0.2.1","deps":[],"cksum":"f515c4547fd94882b294197921c6fa07b291ce3a982dfa9a0cb86a0ad703eabd","features":{},"yanked":false}
+{"name":"tiny_prng","vers":"0.2.2","deps":[],"cksum":"e1961af465742c8a00ddadbec2e128040f2e7414acdd00a4ba3599799d5c4cb6","features":{},"yanked":false}
