@@ -1,1 +1,0 @@
-{"name":"nix-rust-template-shared","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21b939032ff3e856dadbcfe28c529c54a88a782a3bd6ba84bc9b0560a4ad0a97","features":{},"yanked":false}
