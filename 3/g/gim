@@ -29,3 +29,4 @@
 {"name":"gim","vers":"1.1.1","deps":[],"cksum":"4946d8a703a8136a52bf61a5f935863c5a11ba1aaf2874d2d11f9379cb63aaaa","features":{},"yanked":false}
 {"name":"gim","vers":"1.1.2","deps":[],"cksum":"9e068b9b6dd51761d58afb7e77932a04f3863dd268a8051ffa6692d8802d929b","features":{},"yanked":false}
 {"name":"gim","vers":"1.1.3","deps":[],"cksum":"64965f43c1b3d5adf39d81fdf282621033b2f4983780c1e9495a85e91b24e594","features":{},"yanked":false}
+{"name":"gim","vers":"1.1.4","deps":[],"cksum":"091418692e0db6afabe74f40cb647982c959e4e89373ef2ea30c6047423ddce1","features":{},"yanked":false}
