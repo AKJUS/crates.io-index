@@ -6,3 +6,4 @@
 {"name":"shoulds","vers":"0.1.5","deps":[],"cksum":"2d128742a9dcfb6c936161eb6007904773a7637a69870f94467d3e5a89fbf5f6","features":{},"yanked":false}
 {"name":"shoulds","vers":"0.1.6","deps":[],"cksum":"83c54bef8c377e95184b3880ae2eaa8e05077208ad00a4192ac3a43f12417006","features":{},"yanked":false}
 {"name":"shoulds","vers":"0.2.0","deps":[],"cksum":"47c3ee7bf183f78ab87e76442f2fa06b3ae2ced3ee63456e22e93853f4622f00","features":{},"yanked":false}
+{"name":"shoulds","vers":"0.3.0","deps":[],"cksum":"03c61b0f6388db27584557e6a719219b37318374acde7411fbf1445d94501b44","features":{},"yanked":false}
