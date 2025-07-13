@@ -1,0 +1,1 @@
+{"name":"grixy","vers":"0.0.0-reserved","deps":[{"name":"ixy","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcc05fd52a9154c285d2094920ae45aef341870abfb27cf7b232ab11a76c36bd","features":{"alloc":[],"default":["alloc"]},"yanked":false}
