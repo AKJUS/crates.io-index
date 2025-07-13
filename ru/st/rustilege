@@ -1,0 +1,1 @@
+{"name":"rustilege","vers":"0.1.0","deps":[{"name":"windows","req":"^0.61.3","features":["Win32_Foundation","Win32_Security","Win32_System_Threading"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faf3ae85605f1e4fc45cb748225464e8cc467fd3ae7f03e8c78dd8b7abeac1e3","features":{},"yanked":false}
