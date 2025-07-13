@@ -1,0 +1,1 @@
+{"name":"localtrace","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.75","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ccd39b336761ee5412dd631d4051dae3d96bad49e9d87bc2c9b96d03537dcff","features":{},"yanked":false}
