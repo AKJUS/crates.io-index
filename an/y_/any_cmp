@@ -5,3 +5,4 @@
 {"name":"any_cmp","vers":"0.4.0","deps":[],"cksum":"3907aceb01ef8c85dcbaa9c3189caab691d666f7a4f2b4d4b76d3b993c7e3e78","features":{},"yanked":false}
 {"name":"any_cmp","vers":"0.4.1","deps":[],"cksum":"6639c0f10f24f59aacedd4b25ccbd8f12d62279839bf953474d27f9f74babd8f","features":{},"yanked":false}
 {"name":"any_cmp","vers":"0.5.0","deps":[],"cksum":"c8c0c215db7119c9bacee0c49bc0368fe657c254cdfcb4df4b512e2375e92004","features":{},"yanked":false}
+{"name":"any_cmp","vers":"0.5.1","deps":[],"cksum":"7912191c7b9b0977818bbd95107b4e66e0c15ebd8b2888c9b49e1678895df446","features":{},"yanked":false}
