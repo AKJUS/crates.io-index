@@ -1,3 +1,4 @@
 {"name":"wgsl-macro","vers":"0.1.0","deps":[],"cksum":"4233399157c74d72b9e702bccdda1bb86fff374b6123223ce421f5cca8df213c","features":{},"yanked":false}
 {"name":"wgsl-macro","vers":"0.2.0","deps":[],"cksum":"0f81e0a2077bf8dc2311213196ed30f0772795dd04651654896b764eeefc9bd7","features":{},"yanked":false}
 {"name":"wgsl-macro","vers":"0.2.1","deps":[],"cksum":"550cd0924930d8b2f46153d97bd6d9770dd49fdd4da426c35474cb81e912550c","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.2.2","deps":[],"cksum":"c2eaba011351b96550c3c3e254e6332f758640903e7e5f8c39c69e4820c88ae0","features":{},"yanked":false}
