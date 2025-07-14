@@ -1,1 +1,2 @@
 {"name":"percore","vers":"0.1.0","deps":[],"cksum":"37f3b91128b19c0e881596447f5e0da98ab04214b1ecdc9237f0650e64e05181","features":{},"yanked":false}
+{"name":"percore","vers":"0.2.0","deps":[{"name":"spin","req":"^0.10.0","features":["lazy","once"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"d66defb75d077dc2449e4187d1fc52d25cd5c5420b1d6515a01104e16222624c","features":{"alloc":[],"default":["alloc"]},"yanked":false}
