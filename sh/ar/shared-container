@@ -1,1 +1,2 @@
 {"name":"shared-container","vers":"0.1.0","deps":[],"cksum":"aeec27d855032e47c8adecbedc30cb989c8926077d8c7421a3182c3c1da08f20","features":{},"yanked":false}
+{"name":"shared-container","vers":"0.1.1","deps":[],"cksum":"859325ff187f0ba367403f5f9f3f376181503cb6c5f06e1d23c4a5914a47bdd1","features":{"force-wasm-impl":[]},"yanked":false}
