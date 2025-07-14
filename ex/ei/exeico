@@ -1,0 +1,1 @@
+{"name":"exeico","vers":"0.1.0","deps":[{"name":"pelite","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7cfe19e9a1701524538f605e99225e2d3419fdd5d8ac27d56769d9c14fb83f0","features":{},"yanked":false}
