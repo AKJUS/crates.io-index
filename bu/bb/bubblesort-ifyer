@@ -1,0 +1,1 @@
+{"name":"bubblesort-ifyer","vers":"0.1.0","deps":[{"name":"sorted-ifyer","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df50662e905d9c693f2d6f426ac396e97c0413757bcde8b484ee31dae05ad1dc","features":{},"yanked":false,"rust_version":"1.85.1"}
