@@ -2,3 +2,4 @@
 {"name":"sorted-ifyer","vers":"0.1.1","deps":[],"cksum":"37400d9deaf12715f0e8e7e52d92adcecd356666c327b81d028722c4fd7544f2","features":{},"yanked":true,"rust_version":"1.85.1"}
 {"name":"sorted-ifyer","vers":"0.2.0","deps":[],"cksum":"3f55f1e4a377086b19beab717b60fd6cbf8990500a1418e6f77f68cf6663d41c","features":{},"yanked":true,"rust_version":"1.85.1"}
 {"name":"sorted-ifyer","vers":"0.3.0","deps":[],"cksum":"a31c2cb27e27b8e11c3cfc1bdba50a0e7a6a4b854252d756a58535c771e8f67b","features":{},"yanked":false,"rust_version":"1.85.1"}
+{"name":"sorted-ifyer","vers":"0.4.0","deps":[],"cksum":"b4b324d352aa75f829dbfc9addd338c5588ba94f0ca3bd83bb0e30ce968912c5","features":{},"yanked":false,"rust_version":"1.85.1"}
