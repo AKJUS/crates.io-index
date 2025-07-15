@@ -1,0 +1,1 @@
+{"name":"result-transformer-core","vers":"0.0.1","deps":[{"name":"result-transformer-dependencies","req":"^0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc5dc05d17e712ac85ee529396ea9a12d99dda18a2392cf70c8b1143728a8932","features":{"async":[],"async-macros":[],"sync":[],"sync-macros":[]},"yanked":false}
