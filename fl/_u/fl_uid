@@ -1,0 +1,1 @@
+{"name":"fl_uid","vers":"0.1.0","deps":[{"name":"bincode","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e7636aea0b45913f622f3dc9ce8fd27f5398f22f9068c3b4c5a10bc659b62af","features":{},"yanked":false}
