@@ -3,3 +3,4 @@
 {"name":"hiasync","vers":"0.1.2","deps":[],"cksum":"f5d8c784868465519df8b7dbe66735538826e241ccd11ff6203bcb554c0bfefa","features":{},"yanked":false}
 {"name":"hiasync","vers":"0.1.3","deps":[],"cksum":"c5b9773d71de258ffcf328f3bb76df6c5a659746fc47bcfd4248d69e6dd2f1f1","features":{},"yanked":false}
 {"name":"hiasync","vers":"0.1.4","deps":[],"cksum":"b31c0fed7ea6bb4105560444a50086dcb0689f7e810c954cf592aef6f64e0e83","features":{},"yanked":false}
+{"name":"hiasync","vers":"0.1.5","deps":[],"cksum":"a0f217fcf4008953c5c311790467f0f14af5eaeef44d7d49d093a9727c25e664","features":{},"yanked":false}
