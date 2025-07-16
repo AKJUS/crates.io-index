@@ -1,1 +1,2 @@
 {"name":"cmrdts","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae952fd2c599b06b40610f4636ceb30239256e2337789bbdb775db6945f73abc","features":{},"yanked":false}
+{"name":"cmrdts","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f90bd983e55db13cbe1e5a11135e9e09360a5b42e8b867642815e3d861ebfc47","features":{},"yanked":false}
