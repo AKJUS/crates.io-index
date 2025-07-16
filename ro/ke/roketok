@@ -6,3 +6,4 @@
 {"name":"roketok","vers":"0.1.4","deps":[],"cksum":"24fb72bf5bf8b2defcaf2c5d61309e051c2faa65ad5e08a402259fd845602d92","features":{},"yanked":false}
 {"name":"roketok","vers":"0.1.5","deps":[],"cksum":"df4c581f5c9a456c9101320bb099dcda42a37de0fd6de061a65c10ee17e2067f","features":{},"yanked":false}
 {"name":"roketok","vers":"0.2.0","deps":[],"cksum":"d891f2f63611bff60bb5c7b7e442f8be825d7e6bb3d32b5a6be3ebce17438c4a","features":{},"yanked":true}
+{"name":"roketok","vers":"0.2.1","deps":[],"cksum":"5296a1333bba9d5fa96b0a15cb7f94eccaf675e60c73bc9136554415394b0065","features":{},"yanked":false}
