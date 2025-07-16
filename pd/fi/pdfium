@@ -1,1 +1,2 @@
 {"name":"pdfium","vers":"0.1.0","deps":[],"cksum":"c267c82b11da22c9ede6d2fa6321cff7030b592ee38d660f725de64f892d1938","features":{},"yanked":false}
+{"name":"pdfium","vers":"0.2.0","deps":[{"name":"libloading","req":"^0.8.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"parking_lot","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b71a22eca382decf88a81f027142317b8cf78674f91abf5e25cf8251ab6ae49","features":{},"yanked":false}
