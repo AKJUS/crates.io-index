@@ -7,3 +7,4 @@
 {"name":"fast","vers":"0.2.0","deps":[],"cksum":"301585607cb7cc33b8e87500cfb1fcf8163405df95602f834965a90c672a197c","features":{},"yanked":false}
 {"name":"fast","vers":"0.2.1","deps":[],"cksum":"161ba9af21ea8e44e5c59ca7e1c5bd600be55a78208fcab7247fb2bd1227519a","features":{},"yanked":false}
 {"name":"fast","vers":"0.2.2","deps":[],"cksum":"5f60d88803052671c4f078bb1e6a7a6d100757bb1360262a1d49d040c221049b","features":{},"yanked":false}
+{"name":"fast","vers":"0.3.0","deps":[],"cksum":"094f7cced60b4864e6a5f801a8228a1907c5724c8c8f5c5bc4d8ed7b722116db","features":{},"yanked":false}
