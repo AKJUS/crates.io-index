@@ -1,0 +1,1 @@
+{"name":"cfgc","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38b94e92941b8b992b0fab8981429900edcf510608bc7263ec58ba48e76e7136","features":{},"yanked":false}
