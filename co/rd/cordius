@@ -1,0 +1,1 @@
+{"name":"cordius","vers":"0.0.1","deps":[{"name":"bitflags","req":"^2.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87952dcfc9dd488e39fa2ff7022eaad7c38e6323f2ffe134813cd30d9fecc7e2","features":{},"yanked":false}
