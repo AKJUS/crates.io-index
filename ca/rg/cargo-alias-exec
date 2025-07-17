@@ -1,0 +1,1 @@
+{"name":"cargo-alias-exec","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e06ad6d98a1ebf4a9fb1aa2d36339755455dc09ce0fe1ed2c1ace79d814bd34a","features":{},"yanked":false}
