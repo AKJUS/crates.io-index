@@ -1,0 +1,1 @@
+{"name":"carmen-lang","vers":"0.1.0","deps":[{"name":"rustyline","req":"^16.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a0666e9953278a7c4051b8a1611aa71b4003e650b9b7739f72af878294ab6a3","features":{},"yanked":false}
