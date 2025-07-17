@@ -5,3 +5,4 @@
 {"name":"bufferstats","vers":"0.1.4","deps":[],"cksum":"f925a1df9d99d17ece4dc47aebb63bf90bbcd1d993cd1a2675bcc1c47fffde14","features":{},"yanked":false}
 {"name":"bufferstats","vers":"0.1.5","deps":[],"cksum":"3aa606673a50328a0324a3ad35985c2c2863b9b3d5d2b877011801af5ad94c8d","features":{},"yanked":false}
 {"name":"bufferstats","vers":"0.1.6","deps":[],"cksum":"814559fcfd4cd5d9b6c4b32165871954985c02046a2b95656aca3c0fa2956019","features":{},"yanked":false}
+{"name":"bufferstats","vers":"0.1.7","deps":[{"name":"ringbuffer","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c27605bc4f6e220ad33d85ea1d4230bce90b7fbfaae1ceec5ee28be318ce811e","features":{},"yanked":false}
