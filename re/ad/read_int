@@ -1,2 +1,3 @@
 {"name":"read_int","vers":"0.1.0","deps":[],"cksum":"6c4cbf39e0f72310e05ab8b2a0aedf9abf5c1f7a3cdbe9fa2ea3ee4bf4eab00a","features":{},"yanked":false}
 {"name":"read_int","vers":"0.1.5","deps":[],"cksum":"a9d31b6b05976964116546725cd9a03a3ad0144216afb3e0a05d523ef93b15da","features":{},"yanked":false}
+{"name":"read_int","vers":"0.2.0","deps":[],"cksum":"45ec2d22690cbf4988e969ba547e3285617484f303d0aae09509dff5b7cbaf69","features":{},"yanked":false}
