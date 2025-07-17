@@ -5,3 +5,4 @@
 {"name":"http-wasm-guest","vers":"0.4.0","deps":[],"cksum":"ae0585d5c3347b50be383d255e1ece1d26898bf2302fc391abf8e02e85e5b180","features":{},"yanked":false}
 {"name":"http-wasm-guest","vers":"0.5.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bd32c0cc7c5cb25d744e98799d9b91afcc639b3106ca8e4962fcc0670cf0dbf","features":{},"yanked":false}
 {"name":"http-wasm-guest","vers":"0.5.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2956130a17388e30059d416b8b263a4ee76b21bb42b0189646b9aab01fcea10c","features":{},"yanked":false}
+{"name":"http-wasm-guest","vers":"0.6.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58a3e52787fa83b82080df0a75f76ca8f0e40832373e79b8ee8a73c3b5b3e308","features":{},"yanked":false}
