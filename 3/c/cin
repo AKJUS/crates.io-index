@@ -1,2 +1,3 @@
 {"name":"cin","vers":"0.1.0","deps":[],"cksum":"7da5253a7e76dbe6d1b635abd2f4034219c14f172827c0bfcffb09134044439d","features":{},"yanked":true}
 {"name":"cin","vers":"0.1.1","deps":[],"cksum":"564ce1b900ff151a649674fd804b435f2feb952c15bb630a52e95152f699e715","features":{},"yanked":false}
+{"name":"cin","vers":"0.1.2","deps":[],"cksum":"a3a324d9740d0cb3dfed94629b146afd0cd9e06866b90cff9642f089ac46e2cd","features":{},"yanked":false}
