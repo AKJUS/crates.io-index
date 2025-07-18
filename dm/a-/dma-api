@@ -15,3 +15,4 @@
 {"name":"dma-api","vers":"0.2.2","deps":[],"cksum":"624f4a84cc1031cfceb56780b82570a785f6cfdcee4f34c06c4e8f1fba25c970","features":{"alloc":[]},"yanked":false}
 {"name":"dma-api","vers":"0.3.0","deps":[],"cksum":"bc2af71bef611a9b47e76fb7844ab348b172aa3649ebdfdcb854a5d30cd47be5","features":{"alloc":[]},"yanked":false}
 {"name":"dma-api","vers":"0.3.1","deps":[{"name":"aarch64-cpu-ext","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"aarch64\")","kind":"normal"}],"cksum":"9d51274fe946b4c27cdada87cc6de09a50c0d9192c0f30ba455b29dae09caa0b","features":{"alloc":[]},"yanked":false}
+{"name":"dma-api","vers":"0.4.0","deps":[{"name":"aarch64-cpu-ext","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"aarch64\")","kind":"normal"}],"cksum":"4876263aa17fe62461f58ed06e7126f6339312c60d3bff7b7d2fd24b183c8fd3","features":{"alloc":[]},"yanked":false}
