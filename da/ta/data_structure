@@ -15,3 +15,4 @@
 {"name":"data_structure","vers":"0.1.14","deps":[],"cksum":"a32fec4a9f68883c556426bc7a36a4d25d5db790b7daec79d676eef2d7dd5436","features":{},"yanked":false}
 {"name":"data_structure","vers":"0.1.15","deps":[],"cksum":"feb1f006535692ca2bc0f6bd587d2333895c0fafff86594348ff48f79e85b08e","features":{},"yanked":false}
 {"name":"data_structure","vers":"0.1.16","deps":[],"cksum":"1f51fcdd6d7895b1f5d2e066d376b4540c1384c5972e8c9751b5c9e5bf1c9e91","features":{},"yanked":false}
+{"name":"data_structure","vers":"0.1.17","deps":[],"cksum":"28cb17c95489b79326f22daa085ade8744da343f3cf7c705d8c893190000604d","features":{},"yanked":false}
