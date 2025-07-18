@@ -1,0 +1,1 @@
+{"name":"uni_vars","vers":"1.0.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14aad444062ae918fab3805a58bf1cf08a467e5dd64d336209400397c96d9bea","features":{},"yanked":false}
