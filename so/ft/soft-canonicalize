@@ -1,1 +1,2 @@
 {"name":"soft-canonicalize","vers":"0.0.1","deps":[],"cksum":"db538aa85dad0d48ecc0006a1a6fefc0b731649b5023de6fa7b7138937f36e20","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"soft-canonicalize","vers":"0.0.2","deps":[],"cksum":"cf42b4adc363c4aafa2b5b085d544c20083374bdd50fad511138d92548080c44","features":{},"yanked":false,"rust_version":"1.70.0"}
