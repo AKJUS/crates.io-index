@@ -1,3 +1,4 @@
 {"name":"ixy","vers":"0.0.0-reserved","deps":[],"cksum":"69782897ebc13b2559cb128c1722504e116dbc37250e2452744b6a21e8765eb1","features":{},"yanked":false}
 {"name":"ixy","vers":"0.1.0","deps":[],"cksum":"cd5ebc3858a61074fe4a583c3b2d82b057b42c6cbc30268cb8f22a0d0e75f05b","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"ixy","vers":"0.2.0","deps":[],"cksum":"3373dc65b484a87ac495cc4348c653513a85c4a35ac26a69b5d15d60be69bef7","features":{},"yanked":false}
+{"name":"ixy","vers":"0.3.0","deps":[],"cksum":"7b253dd2fc5bbbd42099e40f0c39d7f0c54bc72859c948fde2c51b071d6a80ad","features":{},"yanked":false}
