@@ -10,3 +10,4 @@
 {"name":"strfmt","vers":"0.2.2","deps":[],"cksum":"26cdabcdab6da7e8c2ac1160e917ec83e78bbe3e10325e17d532718c67a4828f","features":{},"yanked":false}
 {"name":"strfmt","vers":"0.2.3","deps":[],"cksum":"b73de159e5e71c4c7579ea3041d3e765f46790555790c24489195554210f1fb4","features":{},"yanked":false}
 {"name":"strfmt","vers":"0.2.4","deps":[],"cksum":"7a8348af2d9fc3258c8733b8d9d8db2e56f54b2363a4b5b81585c7875ed65e65","features":{},"yanked":false}
+{"name":"strfmt","vers":"0.2.5","deps":[],"cksum":"29fdc163db75f7b5ffa3daf0c5a7136fb0d4b2f35523cd1769da05e034159feb","features":{},"yanked":false}
