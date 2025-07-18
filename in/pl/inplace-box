@@ -1,0 +1,1 @@
+{"name":"inplace-box","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65e182e7899520a3639351f5925b040866a97391aaeb085aba64b1c522ae4a48","features":{},"yanked":false,"rust_version":"1.70.0"}
