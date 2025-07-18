@@ -4,3 +4,4 @@
 {"name":"gribberish-types","vers":"0.21.0","deps":[],"cksum":"a87b773f0b15f84fc5fd4ff9bdbf81f582b82f1f2b1a2aab2f7d9825ac87531e","features":{},"yanked":false}
 {"name":"gribberish-types","vers":"0.21.1","deps":[],"cksum":"894913b675e49dc108a71529e6a7590ef9fe0f7a05f46a87fc52280231889b31","features":{},"yanked":false}
 {"name":"gribberish-types","vers":"0.21.2","deps":[],"cksum":"e626b44ba5b4549beccf440b95c1d1f0a89c98da24e0a55eb63ce381a5118716","features":{},"yanked":false}
+{"name":"gribberish-types","vers":"0.22.0","deps":[],"cksum":"08ee6301b3c471397af9a3e4f28942da992ca1a95f09990d1db7b838154bbb0e","features":{},"yanked":false}
