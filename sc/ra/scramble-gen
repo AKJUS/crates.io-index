@@ -1,1 +1,2 @@
 {"name":"scramble-gen","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7284789d9a5dee3d8ba0f0763c1d72be4b03e76edebb5bd7606a1070bad6cdfc","features":{},"yanked":false}
+{"name":"scramble-gen","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.1","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc73240eee6e6d114eecae69f13f30370fc75c163114f03afe489b76f7e843d7","features":{},"yanked":false}
