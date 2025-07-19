@@ -1,0 +1,1 @@
+{"name":"ndb-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0aa31fa79d262e5fdb4a2bae4ac97899b845af5e02369c32b25f250f11cc2005","features":{},"yanked":false}
