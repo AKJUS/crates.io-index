@@ -1,0 +1,1 @@
+{"name":"sorting-algorithm","vers":"0.1.7","deps":[{"name":"fastrand","req":"^2.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28ad48d24a603b66ca8d4575db9b923ec7cbbfb7db50459485d09ccb592f3b27","features":{},"yanked":false}
