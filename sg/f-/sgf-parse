@@ -24,3 +24,4 @@
 {"name":"sgf-parse","vers":"4.2.2","deps":[],"cksum":"b4742b011c92c59e370bbdea683111d39285925b1a1140ef9b6c83181e2f302f","features":{},"yanked":false}
 {"name":"sgf-parse","vers":"4.2.3","deps":[],"cksum":"1339a328f725ced68a3a768c08b7bc8705b338c5dd0192102addde28f75a93f8","features":{},"yanked":false}
 {"name":"sgf-parse","vers":"4.2.4","deps":[],"cksum":"97ce9c9786471ac3e0c6d0d5a0cf21584cc78ca498a4fd70d220acbe51f4639a","features":{},"yanked":false}
+{"name":"sgf-parse","vers":"4.2.5","deps":[],"cksum":"75adc9f7a45d2520cd67f394a158712609811e89ceeaf37b4f5b6aac1e2243f7","features":{},"yanked":false}
