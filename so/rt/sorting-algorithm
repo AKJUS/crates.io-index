@@ -1,1 +1,2 @@
 {"name":"sorting-algorithm","vers":"0.1.7","deps":[{"name":"fastrand","req":"^2.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28ad48d24a603b66ca8d4575db9b923ec7cbbfb7db50459485d09ccb592f3b27","features":{},"yanked":false}
+{"name":"sorting-algorithm","vers":"0.1.8","deps":[{"name":"fastrand","req":"^2.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"279979522ee1c9e6cee14d1b13869cd77b7d72e18415a4c4782a4abcf4e16592","features":{},"yanked":false}
