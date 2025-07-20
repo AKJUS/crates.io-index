@@ -16,3 +16,4 @@
 {"name":"rust_ti","vers":"1.4.2","deps":[],"cksum":"49c2b49ae16eb3d1f2ad7a41d5e3e0f2e63b20b82becab5a0e49a49ff4f11a35","features":{},"yanked":false}
 {"name":"rust_ti","vers":"2.0.0","deps":[],"cksum":"2eedecaef7f692ecb4120ff8fd8877e72d530294c0a09e870773bee1624d0d50","features":{},"yanked":false}
 {"name":"rust_ti","vers":"2.0.1","deps":[],"cksum":"2913881c1af931e3a2550c336b6f4f9558129cc2ca4f717123b6501497e89e76","features":{},"yanked":false}
+{"name":"rust_ti","vers":"2.1.0","deps":[],"cksum":"53d48b113814caa788a8391dc3de9aa3b91b6f72827b2d36db570b8cb6047fc8","features":{},"yanked":false}
