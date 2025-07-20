@@ -1,1 +1,2 @@
 {"name":"rambl_rs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.46.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"132e17c1864d932ac0545c6d528dad62dda0a066a699f8d34899a567a70190c1","features":{},"yanked":false}
+{"name":"rambl_rs","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.46.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7397e8b688455d36a2a94ca31a54fc8ef67eaddc0b690a288e981ac07ba009fe","features":{},"yanked":false}
