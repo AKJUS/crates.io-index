@@ -1,0 +1,1 @@
+{"name":"swordfish","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de9e9f997bcfdfc715b592393290d0faedcab0c04a524f03b3db9470148d3700","features":{},"yanked":false}
