@@ -9,3 +9,4 @@
 {"name":"app-path","vers":"0.2.5","deps":[],"cksum":"2289f2fbf4e7292c46fefc915781e369ab0d9e571eb78462707f9d7907ea6dbe","features":{},"yanked":false}
 {"name":"app-path","vers":"0.2.6","deps":[],"cksum":"03e344836c10367a3aa9fe5ecfcdda92a6d649fb700c97ab3d941976b650a87a","features":{},"yanked":false}
 {"name":"app-path","vers":"0.2.7","deps":[],"cksum":"d81704f04821ef75d8f3f8981aba3084b6d4b648dad184f151c22492880a7057","features":{},"yanked":false}
+{"name":"app-path","vers":"1.0.0","deps":[{"name":"camino","req":"^1.1","features":["serde1"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"typed-path","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b0ba8ba171f466c6c9e8288260ebf7f666368dbed13e7473164e06306041165b","features":{},"yanked":false}
