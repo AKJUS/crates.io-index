@@ -1,1 +1,2 @@
 {"name":"swordfish","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de9e9f997bcfdfc715b592393290d0faedcab0c04a524f03b3db9470148d3700","features":{},"yanked":false}
+{"name":"swordfish","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af4531413875f160d938c12ef798693c7bf765d31c4ff9a1d071f699e32c94a1","features":{},"yanked":false}
