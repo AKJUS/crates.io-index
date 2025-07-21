@@ -1,0 +1,1 @@
+{"name":"swc_ecma_compiler","vers":"0.1.0","deps":[{"name":"swc_ecma_ast","req":"^14.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17b62b334796f47370354337298f0ecade7f74c8a552a844f1c57431243edd18","features":{},"yanked":false}
