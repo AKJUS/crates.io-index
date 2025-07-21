@@ -1,1 +1,0 @@
-{"name":"macrosquad_catppuccin","vers":"0.1.0","deps":[{"name":"macroquad","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"634a2434a404a033832121b2ada38bc9e7e8f91159c1aa1e6f70267c79b70b83","features":{},"yanked":false}
