@@ -1,1 +1,0 @@
-{"name":"maja-templates","vers":"0.1.0","deps":[{"name":"macroquad","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edca482ac602b75b0fb34174bca527343a6a0cce2ef79f288624ebd5e90d98d0","features":{},"yanked":false}
