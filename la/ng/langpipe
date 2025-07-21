@@ -1,0 +1,1 @@
+{"name":"langpipe","vers":"0.1.0","deps":[{"name":"downcast-rs","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7276ff077de01e99957c2210360a2f09b6815bb7661f79206a85ec9c5d11b011","features":{},"yanked":false}
