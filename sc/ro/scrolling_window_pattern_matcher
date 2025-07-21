@@ -1,2 +1,3 @@
 {"name":"scrolling_window_pattern_matcher","vers":"0.1.0","deps":[],"cksum":"86f4b9fa6446171ca2f37d43bf7f8354fa4a5845901f1b5535b224c441629fea","features":{},"yanked":false}
 {"name":"scrolling_window_pattern_matcher","vers":"0.2.0","deps":[],"cksum":"ab1a312485b1d767e396ac841c84272351adde6346a463555dabea5904edc76a","features":{},"yanked":false}
+{"name":"scrolling_window_pattern_matcher","vers":"0.3.0","deps":[{"name":"env_logger","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cd0206aa35df7c48c4d5aa873b06a880fec034cb2480cd84a3d1642316b6bcb","features":{},"yanked":false}
