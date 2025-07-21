@@ -1,0 +1,1 @@
+{"name":"riscv-codec-proc-macros","vers":"0.1.0","deps":[{"name":"litrs","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8bd8680a25402d03dfc5dd4e7e238bc229bd1ba8ff9a14d561d151813ddf7d6","features":{},"yanked":false}
