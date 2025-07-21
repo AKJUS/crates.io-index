@@ -1,0 +1,1 @@
+{"name":"tachyon_json","vers":"1.0.0","deps":[{"name":"ryu","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc17bab0a4fb216ba4c83aea3fb72762cbfd809a8b72749250f28ff4d4468147","features":{},"yanked":false}
