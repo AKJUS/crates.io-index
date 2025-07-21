@@ -1,0 +1,1 @@
+{"name":"ls-rs","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64072f4f7e02cf0da637b438a25377fce184d4f71d0f1396cc5f14dcaf5fe060","features":{},"yanked":false}
