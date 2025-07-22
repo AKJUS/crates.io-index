@@ -1,0 +1,1 @@
+{"name":"hypeerlog","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8a154ae4c03852971e622071f458ca15fa49580824a84c1207245bc0228d3575","features":{},"yanked":false}
