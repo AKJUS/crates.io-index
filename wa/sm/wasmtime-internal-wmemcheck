@@ -1,0 +1,1 @@
+{"name":"wasmtime-internal-wmemcheck","vers":"35.0.0","deps":[],"cksum":"d0c3f15a443b23d924f584a88ea8b9df147b5dd081919126a2a729a676a07378","features":{},"yanked":false,"rust_version":"1.86.0"}
