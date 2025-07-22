@@ -25,3 +25,4 @@
 {"name":"grid2d","vers":"0.6.3","deps":[{"name":"itertools","req":"^0.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deb2796a188670bf53a3b4a1e7aaa54dc8175883daa6f33cd90e2d3a5b74b262","features":{"display":["itertools/default"]},"yanked":true}
 {"name":"grid2d","vers":"0.6.4","deps":[{"name":"itertools","req":"^0.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e05ea9bee2bb854cd23150037db994237338cbb703f23dd74a907eebcbdd6e7","features":{"display":["itertools/default"]},"yanked":false}
 {"name":"grid2d","vers":"1.0.0","deps":[],"cksum":"2772d9b6c4f500eb87b9a0b3c328966731523ceab5f88f15cffe3e527316333a","features":{},"yanked":false}
+{"name":"grid2d","vers":"1.1.0","deps":[],"cksum":"21eb2300d2fc54814c12f06ce8b59aa0cad57cd9284dd2d76059e4b9965c325b","features":{},"yanked":false}
