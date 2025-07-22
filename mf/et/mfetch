@@ -1,0 +1,1 @@
+{"name":"mfetch","vers":"0.0.1","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49b59ff95d330aa696f6a920d1473d1b53a5c6b6ddca27ae7c68574ee07862c8","features":{},"yanked":false}
