@@ -32,3 +32,4 @@
 {"name":"gim","vers":"1.1.4","deps":[],"cksum":"091418692e0db6afabe74f40cb647982c959e4e89373ef2ea30c6047423ddce1","features":{},"yanked":false}
 {"name":"gim","vers":"1.1.5","deps":[],"cksum":"c62ace8ca2af25d299524f227aedd587e544f0447af69e226b89753082b4e6ab","features":{},"yanked":false}
 {"name":"gim","vers":"1.1.6","deps":[],"cksum":"58804c3256c8be79ae679b49b2eadc610c1f8c18099fa59f2f70dcd8c80e2b2d","features":{},"yanked":false}
+{"name":"gim","vers":"1.1.7","deps":[],"cksum":"3517d903214bb133c39f5cbf9dfd12c9c6f7652e52ece1a6b79a080a05b3f45e","features":{},"yanked":false}
