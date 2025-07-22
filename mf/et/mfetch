@@ -1,1 +1,2 @@
 {"name":"mfetch","vers":"0.0.1","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49b59ff95d330aa696f6a920d1473d1b53a5c6b6ddca27ae7c68574ee07862c8","features":{},"yanked":false}
+{"name":"mfetch","vers":"0.0.2","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c6f5be0d7f5482ca4ce7d24a29b986be0717502f727281ab46dcc9a6e08c1a9","features":{},"yanked":false}
