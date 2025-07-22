@@ -1,1 +1,2 @@
 {"name":"arc_vec","vers":"0.1.0","deps":[],"cksum":"71be26feed758a77016ddbb6b845766f10de7d6dbb2a4f58b1fac8adcd290daa","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"arc_vec","vers":"0.1.1","deps":[],"cksum":"174a156141e89a6dc77f17f588f416bd3e1e6be6d927163e26aec28fe0b2f203","features":{},"yanked":false,"rust_version":"1.88"}
