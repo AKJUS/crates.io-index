@@ -1,1 +1,0 @@
-{"name":"utf8simd","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a382ce9382695d251b0b36097e8b7af6c678c17d185873bd27e108d7ee0cf95b","features":{},"yanked":false}
