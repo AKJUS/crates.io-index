@@ -1,4 +1,4 @@
-{"name":"arbi","vers":"0.1.0","deps":[],"cksum":"a1d267c76c03485248b345ca7a0e3c08a08ee8ebe678471b2fd6ed9a90c1adec","features":{},"yanked":false}
+{"name":"arbi","vers":"0.1.0","deps":[],"cksum":"a1d267c76c03485248b345ca7a0e3c08a08ee8ebe678471b2fd6ed9a90c1adec","features":{},"yanked":true}
 {"name":"arbi","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":["std_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e5a40aaeb9dfa50bcc6bcd09741e17f10e2e8b756c31e756f9b8fa568f780f3b","features":{},"yanked":false}
 {"name":"arbi","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.5","features":["std_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0d4ccdac6029d080ecc4bd97899d42b7f3a47cfbfd0c86e8ae128c7a3320850","features":{},"yanked":false}
 {"name":"arbi","vers":"0.1.3","deps":[{"name":"rand","req":"^0.8.5","features":["std_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9c694a7615f6659f019501b7ac8318aa6d20da9128f5c2b0257b49f57e21db8b","features":{},"yanked":false}
