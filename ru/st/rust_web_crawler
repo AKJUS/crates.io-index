@@ -1,0 +1,1 @@
+{"name":"rust_web_crawler","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.46.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cf14429ef06d09ef26f8828fafb2140c5c3c461089d79482b3ded84313c37bf","features":{},"yanked":false}
