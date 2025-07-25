@@ -4,3 +4,4 @@
 {"name":"tiny_prng","vers":"0.2.2","deps":[],"cksum":"e1961af465742c8a00ddadbec2e128040f2e7414acdd00a4ba3599799d5c4cb6","features":{},"yanked":false}
 {"name":"tiny_prng","vers":"0.2.3","deps":[],"cksum":"99893df2617eaeb32b47cbd17bcea0d4d5dfd7beef2f391a2dd58e3ef5e98b00","features":{},"yanked":false}
 {"name":"tiny_prng","vers":"0.2.4","deps":[],"cksum":"2c555bc548ef08cb4f0c20326b85701c0b971a0a4a6ce2eeef8ca0cb8ff3ab20","features":{},"yanked":false}
+{"name":"tiny_prng","vers":"0.2.5","deps":[],"cksum":"85376baaf83e59c30280147f0e7c34c03df4515645d73624701ccdb610359969","features":{},"yanked":false}
