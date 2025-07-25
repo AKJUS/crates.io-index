@@ -1,0 +1,1 @@
+{"name":"coordtransform","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e9e11415a3f95f4cf29bf9fffa2c382a1b7fee77347f7a0c93f9432698e32c2","features":{},"yanked":false}
