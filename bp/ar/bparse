@@ -22,3 +22,4 @@
 {"name":"bparse","vers":"0.22.0","deps":[],"cksum":"8d0cb5341bfe0c5ac8b2591e4b50b6f2961ec710680023de644c0aac3eabbced","features":{},"yanked":false}
 {"name":"bparse","vers":"0.23.0","deps":[],"cksum":"008f64e33f03c2baffabde2d80a78736b13b113df9b74d2ac3c5278b61b6110d","features":{},"yanked":false}
 {"name":"bparse","vers":"0.24.0","deps":[{"name":"bytes","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f53a424a589be4b74516ed483a674583f7f4c5431c89652795e506d06463d239","features":{},"yanked":false,"rust_version":"1.85.1"}
+{"name":"bparse","vers":"0.25.0","deps":[{"name":"bytes","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a90949903aa193c764d80dfd375f9a636ac37ec81f6d7ecf670e8fa8f735100","features":{},"yanked":false,"rust_version":"1.85.1"}
