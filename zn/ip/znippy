@@ -1,0 +1,1 @@
+{"name":"znippy","vers":"0.2.0","deps":[{"name":"znippy-cli","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"784e06519744699f6cc82573905d533221ee5b512b75465342b5d1a4af01636d","features":{},"yanked":false}
