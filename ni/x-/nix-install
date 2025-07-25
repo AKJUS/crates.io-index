@@ -5,3 +5,4 @@
 {"name":"nix-install","vers":"0.1.4","deps":[],"cksum":"3a17f7d763dfad4310d7ba599561e320db2732cef1f37956886224e9f2731645","features":{},"yanked":false}
 {"name":"nix-install","vers":"0.1.5","deps":[],"cksum":"a049b8be7dafc25577e4745bacae8e78f3bd527acf9a3d02d8ba0e1f421497d8","features":{},"yanked":false}
 {"name":"nix-install","vers":"0.1.6","deps":[],"cksum":"434627138e0f60a2741b598a95d3b30c27d6acd08437f2c3945a3f80fd6926fe","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.7","deps":[],"cksum":"eea7b05a042f2a2fee500ff5836c90b41f01d33e1132aa2ad014681ae6003d68","features":{},"yanked":false}
