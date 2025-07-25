@@ -1,0 +1,1 @@
+{"name":"cardinal-uxn","vers":"0.1.0","deps":[{"name":"zerocopy","req":"^0.7.34","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2457c128a8fa5d448114847acd579f075f91538019bc422e15c0f75b1f321571","features":{"alloc":[],"default":["alloc"],"native":[]},"yanked":false}
