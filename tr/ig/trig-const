@@ -1,2 +1,3 @@
 {"name":"trig-const","vers":"0.1.0","deps":[],"cksum":"d62be85ab45c0dfd8c37c0c5f3654815251d0e13196378d9ea946468b0435ef2","features":{},"yanked":false,"rust_version":"1.85.0"}
 {"name":"trig-const","vers":"0.1.1","deps":[],"cksum":"da06fb144a4a83fc45932a4db2968ae1579d4c97c04c2221dbabf3ca475ce665","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"trig-const","vers":"0.1.2","deps":[],"cksum":"3bec76d37656a8b9ce7592b8f333ba24e69c7c597d329e068c87cc2118744cf5","features":{},"yanked":false,"rust_version":"1.85.0"}
