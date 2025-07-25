@@ -7,3 +7,4 @@
 {"name":"nix-install","vers":"0.1.6","deps":[],"cksum":"434627138e0f60a2741b598a95d3b30c27d6acd08437f2c3945a3f80fd6926fe","features":{},"yanked":false}
 {"name":"nix-install","vers":"0.1.7","deps":[],"cksum":"eea7b05a042f2a2fee500ff5836c90b41f01d33e1132aa2ad014681ae6003d68","features":{},"yanked":false}
 {"name":"nix-install","vers":"0.1.8","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9bb0263b2bbff009bac96dceb833dc285f0b15743b5cfdc7cb4a146992076e9","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.9","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a938f07d1ab1d0594ce374ce4a87f4ca694a347e4bf393d494028362f9dffeb4","features":{},"yanked":false}
