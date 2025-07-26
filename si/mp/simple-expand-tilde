@@ -15,3 +15,4 @@
 {"name":"simple-expand-tilde","vers":"0.4.7","deps":[{"name":"simple-home-dir","req":"^0.4.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0faf444afa227b7887871bffb3c303129f2cfcc1e0106369124b69f332f3a67c","features":{},"yanked":false}
 {"name":"simple-expand-tilde","vers":"0.5.0","deps":[],"cksum":"ffac3688e418d0345984ff2bbc90b094856b165f78d76d981fd24322b9ab5dfa","features":{},"yanked":false}
 {"name":"simple-expand-tilde","vers":"0.5.1","deps":[],"cksum":"479d47d692e0f1614e7b058b186e07cc1ffd562f83e2714e3459f551c76fb6fc","features":{},"yanked":false}
+{"name":"simple-expand-tilde","vers":"0.5.2","deps":[],"cksum":"1e7a57abc1c7fd6ee791dc1f4cf8048dd74b571467792a6c040aa812d6ab15c5","features":{},"yanked":false}
