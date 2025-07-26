@@ -16,3 +16,4 @@
 {"name":"napi-build-ohos","vers":"1.0.2","deps":[],"cksum":"9d36676ee50f9e6a6ad5f8691aa6bad69ca1e4952539cfca1bb6c9b7ed713a6c","features":{},"yanked":false,"rust_version":"1.80"}
 {"name":"napi-build-ohos","vers":"1.0.3","deps":[],"cksum":"f65030ecf45de85be04f6c5632bfa72f29ce2833eb93522e8e8ae206a98d82d4","features":{},"yanked":false,"rust_version":"1.80"}
 {"name":"napi-build-ohos","vers":"1.0.4","deps":[],"cksum":"7ad5bf214216afe5b572da0bcd5cab932d17cbcca3dbe82991db0d765a764c8a","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"napi-build-ohos","vers":"1.1.0","deps":[],"cksum":"959f833e4ea8bec8f92b23b705b5558d42d8e63672c77b9b281b7228c5df6e88","features":{},"yanked":false,"rust_version":"1.80"}
