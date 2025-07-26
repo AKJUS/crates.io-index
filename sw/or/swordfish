@@ -7,3 +7,4 @@
 {"name":"swordfish","vers":"0.1.6","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1985945757a2494757d918f6158f39bec456b51581365eae6a58687af6a85efe","features":{},"yanked":false}
 {"name":"swordfish","vers":"0.1.7","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"502c08c2e152cc7d39855b47310d54768dad4380ae51dcd7e65fe5c3f41d39cf","features":{},"yanked":false}
 {"name":"swordfish","vers":"0.1.8","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62b24a16ae94d24ba41ab04f44810c4ba3ed5b0b7ca13551a695d9ef6b9c1f09","features":{},"yanked":false}
+{"name":"swordfish","vers":"0.1.9","deps":[],"cksum":"f9b7ce4a9e0eed7742f81fd7a72f246622bd996f89986744f5f63022cdb9781d","features":{},"yanked":false}
