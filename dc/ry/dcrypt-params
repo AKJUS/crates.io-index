@@ -3,3 +3,4 @@
 {"name":"dcrypt-params","vers":"0.9.0-beta.3","deps":[],"cksum":"1de648c83633b13d33c3137a3609a9434459af5f6020921e5b89e9b9bb25a14d","features":{},"yanked":false}
 {"name":"dcrypt-params","vers":"0.10.0-beta.1","deps":[],"cksum":"21b35d3c9843132282ff7d33ab90635963f03989b9f34052752971358ba9bea5","features":{},"yanked":false}
 {"name":"dcrypt-params","vers":"0.11.0-beta.1","deps":[],"cksum":"1d046d8a7e05b7ce97b644f26cfb1d9883295209b4a3d34bb78ad013d86269ba","features":{},"yanked":false}
+{"name":"dcrypt-params","vers":"0.11.0-beta.2","deps":[],"cksum":"93bb5aedbcd1b4866e2cf58c588130c723facb4feb82ee7d34f5a39c443c98ef","features":{},"yanked":false}
