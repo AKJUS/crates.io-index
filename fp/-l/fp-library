@@ -5,3 +5,4 @@
 {"name":"fp-library","vers":"0.0.5","deps":[],"cksum":"3da13d7ba967bd58056499c8d25cb09a4acedc8c7f9e41bf9895ea54a45d0efa","features":{},"yanked":false}
 {"name":"fp-library","vers":"0.0.6","deps":[],"cksum":"58e41a8c34296d563acf7359fbaeaaec83d49dc4ca37d28455ce620465f308b0","features":{},"yanked":false}
 {"name":"fp-library","vers":"0.0.7","deps":[],"cksum":"5f948c2e32ec294a272ce32739ef32039eb054e60d5fc4251d8ee2b6d7510511","features":{},"yanked":false}
+{"name":"fp-library","vers":"0.0.8","deps":[],"cksum":"4ce53ddf7ae783aff13944330b4de663426e7ec3414d58851a0ef3b8a6aa3b04","features":{},"yanked":false}
