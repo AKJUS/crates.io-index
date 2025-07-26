@@ -1,0 +1,1 @@
+{"name":"trianglesay","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.41","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"131916e7f628553c7dc146704cda2552099d57124348e331b17f9a5118c57dd7","features":{},"yanked":false}
