@@ -7,3 +7,4 @@
 {"name":"onceinit","vers":"0.0.7","deps":[],"cksum":"064eaddbd74e7db39b7f5156c0ba664b5025383fed6a7a16ecf0f6880fdfaa6f","features":{"alloc":[],"default":[],"no_std":[]},"yanked":false}
 {"name":"onceinit","vers":"0.0.10","deps":[],"cksum":"96898011266e1fcfb5f7deacbdf805af70f69e50ba478d003ebcfc92d2179a1d","features":{"alloc":[],"default":[],"no_std":[]},"yanked":false}
 {"name":"onceinit","vers":"0.0.11","deps":[],"cksum":"025f39bd45fb5aab90771dd44e67ff082f83c908d244db1074ab869d966cb790","features":{"alloc":[],"default":[],"no_std":[]},"yanked":false}
+{"name":"onceinit","vers":"0.0.12","deps":[],"cksum":"2365e388950e15bb1f15db088850b13520ab81d093e7c89b6b9f19a03bc8f110","features":{"alloc":[],"default":[],"no_std":[]},"yanked":false}
