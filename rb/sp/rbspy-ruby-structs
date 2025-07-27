@@ -47,3 +47,4 @@
 {"name":"rbspy-ruby-structs","vers":"0.34.1","deps":[],"cksum":"4a9df8c1d6efcff3b6d60fd5486744319d9f672a8ea9c73ff9c84834eab30ef8","features":{},"yanked":false}
 {"name":"rbspy-ruby-structs","vers":"0.35.0","deps":[],"cksum":"700889c3307a124aaf7650362814c70bbec6ea19ae54b58d0d7944876bee1d6b","features":{},"yanked":false}
 {"name":"rbspy-ruby-structs","vers":"0.36.0","deps":[],"cksum":"6162f6774a18b0911a69af71a9f5d2de12708bba6903e3ea095a3035328a2208","features":{},"yanked":false}
+{"name":"rbspy-ruby-structs","vers":"0.36.1","deps":[],"cksum":"9eb8399a646ade2989897f6dc3e930e84cfc0023641818c5ebce1245f216d277","features":{},"yanked":false}
