@@ -1,0 +1,1 @@
+{"name":"crispii_music","vers":"0.1.0","deps":[{"name":"crispii_errors","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0810abb2239b0590882ef55d8dd26692d18dd88e8178ac997574e7f393e48673","features":{},"yanked":false,"rust_version":"1.85.0"}
