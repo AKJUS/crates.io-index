@@ -8,3 +8,4 @@
 {"name":"fp-library","vers":"0.0.8","deps":[],"cksum":"4ce53ddf7ae783aff13944330b4de663426e7ec3414d58851a0ef3b8a6aa3b04","features":{},"yanked":false}
 {"name":"fp-library","vers":"0.0.9","deps":[],"cksum":"e0404446f9e778d1917568456e2f4a42f01a2ff47a7b128d0b6faf7928e1a7d2","features":{},"yanked":false}
 {"name":"fp-library","vers":"0.0.10","deps":[],"cksum":"b7ef9ad763018e3abf100c3caabb5935d916a308c64a17d7e52edff392ed0bbc","features":{},"yanked":false}
+{"name":"fp-library","vers":"0.0.11","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck_macros","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2fc6e2dff3899b937f0634d7d4267e6b97e4a5c5560c7bb7eb9bb659eafc6947","features":{},"yanked":false}
