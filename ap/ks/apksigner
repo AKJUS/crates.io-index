@@ -1,2 +1,3 @@
 {"name":"apksigner","vers":"0.1.0","deps":[],"cksum":"0feea70bb0d7077bf028c9c15915ae872c920283020239a5211325b7df97c6cb","features":{},"yanked":false}
 {"name":"apksigner","vers":"0.1.1","deps":[],"cksum":"77168bc5653254bf7c355d598eb3f5af9a2ad085855ee387f38061ad88c294c4","features":{},"yanked":false}
+{"name":"apksigner","vers":"0.1.2","deps":[],"cksum":"e200e30de6eac6e785ab518a5b370220ab99a7f8db2e3300ada96b3d9bd76b65","features":{},"yanked":false}
