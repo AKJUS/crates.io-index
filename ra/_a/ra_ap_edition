@@ -37,3 +37,4 @@
 {"name":"ra_ap_edition","vers":"0.0.293","deps":[],"cksum":"0c55140aa991c2edc1b8d8d0f3b42dd62fd996081ccbaebb6a814b3abdf7152f","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"ra_ap_edition","vers":"0.0.294","deps":[],"cksum":"732efa3d4cd5edc1578be0a33fa0f8052a348e52e6b95e7e161199f7166445b7","features":{},"yanked":false,"rust_version":"1.88"}
 {"name":"ra_ap_edition","vers":"0.0.295","deps":[],"cksum":"a3564398f3b5c5d9ef44b703540d23750d856b60deb45f76a587679006d538b0","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"ra_ap_edition","vers":"0.0.296","deps":[],"cksum":"dc3fbde70afb324a176bcadfdaa6d4b1851f373f56bca06781c556ae49143530","features":{},"yanked":false,"rust_version":"1.88"}
