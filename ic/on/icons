@@ -1,2 +1,3 @@
 {"name":"icons","vers":"0.1.0","deps":[],"cksum":"0349939c28f972fb9c01309ee9aa34fbe92c390909d61d8df5bb8a1fae114b2c","features":{},"yanked":false}
 {"name":"icons","vers":"0.1.1","deps":[],"cksum":"d17008e7f5e6d94c644f9f8a5fa64c5da038840c32c8a70fd370889a8d229068","features":{},"yanked":false}
+{"name":"icons","vers":"0.1.2","deps":[{"name":"leptos","req":"^0.8","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tw_merge","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffe3e820a17cfa1640df7500c9ca96afada6b1f584fc1a9623647e26cbb02581","features":{},"yanked":false}
