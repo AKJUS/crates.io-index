@@ -1,1 +1,2 @@
 {"name":"certifiably","vers":"0.0.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eec6e1bfdac46270e5b1a7e18be4829864b75baf1660c2dc53282f58ddcf2209","features":{},"yanked":false}
+{"name":"certifiably","vers":"0.5.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b058ea7aadadf2915b0d893c820194b83e159db914ea86f257ba6ed4c27d3f3","features":{},"yanked":false}
