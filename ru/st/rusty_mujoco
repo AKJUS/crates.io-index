@@ -1,0 +1,1 @@
+{"name":"rusty_mujoco","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"glfw","req":"^0.59.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3f220f5a991492a92175bd39ac8d880a01fa4a03981dc9bf7de68410b37a501c","features":{},"yanked":false}
