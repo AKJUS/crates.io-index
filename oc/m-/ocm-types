@@ -1,1 +1,2 @@
 {"name":"ocm-types","vers":"0.1.0","deps":[],"cksum":"086c7cf259f1cbe6569ba9f1e3222a9756d353997cec7730b62c75ddd30198a4","features":{},"yanked":false}
+{"name":"ocm-types","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b8fb40c3115b5ac4e54a20305090260338312b531c86f6c2cabd12fc4b5febb","features":{},"yanked":false}
