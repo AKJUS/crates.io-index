@@ -1,0 +1,1 @@
+{"name":"aarchmrs-instructions","vers":"0.1.0-2025-03","deps":[{"name":"aarchmrs-types","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8d8ba701ef7d840e476acc7e5eb612073ca526a16df333b3624305fe923e568","features":{"meta":[]},"yanked":false}
