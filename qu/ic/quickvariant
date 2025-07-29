@@ -1,0 +1,1 @@
+{"name":"quickvariant","vers":"0.1.0","deps":[{"name":"quickvariant-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36e6e1569364d3dcc5d6e9622193dac35508054e2f270879f55e0973eea3c994","features":{},"yanked":false}
