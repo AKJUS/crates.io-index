@@ -1,0 +1,1 @@
+{"name":"rvmasm","vers":"0.1.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcae39c8101a4d96b5c218717dcb819fdd0485613571f7102cabc40ef45948d9","features":{},"yanked":false}
