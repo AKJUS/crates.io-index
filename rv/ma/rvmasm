@@ -1,1 +1,2 @@
 {"name":"rvmasm","vers":"0.1.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcae39c8101a4d96b5c218717dcb819fdd0485613571f7102cabc40ef45948d9","features":{},"yanked":false}
+{"name":"rvmasm","vers":"0.1.1","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9361ff58b0eba0c31b6748b5d7b1ab5369b6d77bb6c437f424a675b88991258","features":{},"yanked":false}
