@@ -1,0 +1,1 @@
+{"name":"coverio","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1.0.141","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a78b55325606f26b10d60a789cad8476f8d7b4d9adb546a4e730ce4eedf8ec93","features":{},"yanked":false}
