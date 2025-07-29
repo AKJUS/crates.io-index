@@ -1,0 +1,1 @@
+{"name":"error-forge","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"712da7e671328d2c319c6cc3aa9c0e5854a874cbbcfa4e3b4d2f572f4e2c0261","features":{},"yanked":false}
