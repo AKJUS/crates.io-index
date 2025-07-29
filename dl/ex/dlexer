@@ -2,3 +2,4 @@
 {"name":"dlexer","vers":"0.1.1","deps":[],"cksum":"97c6d674b8c87ce70096a4cd4d8bd8aaeb7d1efae4f1852e2e76f5cb470d495c","features":{"experimental":[]},"yanked":false}
 {"name":"dlexer","vers":"0.1.2","deps":[],"cksum":"6dd5054592dd9b978344ee59d36612fa8d7c8f966b97b8adad0c9fab9dfff4f1","features":{"experimental":[]},"yanked":false}
 {"name":"dlexer","vers":"0.1.3","deps":[],"cksum":"07532736b568d6d2e0631c39fa793b490eb579dc9afb8f8aad0892a60e89c1fb","features":{"experimental":[]},"yanked":false}
+{"name":"dlexer","vers":"0.1.4","deps":[],"cksum":"c99cdb0f0d5669beca74ca5031155d1ff4b2886aea34649c8810e96b96ffba83","features":{"experimental":[]},"yanked":false}
