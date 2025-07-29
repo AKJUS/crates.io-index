@@ -1,3 +1,4 @@
 {"name":"pngtools","vers":"0.1.0","deps":[],"cksum":"bd5dd48c5110aa3e0b20d7482b1c04284bed8b8ab061f7e5c8363fa74d025e78","features":{},"yanked":false}
 {"name":"pngtools","vers":"1.0.0","deps":[],"cksum":"b3a82cb31e8b92bffec7338f636fa859972fcd50ca1c5cee1f900143fe7825e7","features":{},"yanked":false}
 {"name":"pngtools","vers":"1.0.1","deps":[],"cksum":"0c717bd00c76ff0acb2dae693c2a6f9c90bfd78abcd764533ca6433053ce0cd0","features":{},"yanked":false}
+{"name":"pngtools","vers":"1.0.2","deps":[],"cksum":"5c678191a5caaf1b3265d803484db8d92fee99ab037d2da5c6b9f93dab2517fa","features":{},"yanked":false}
