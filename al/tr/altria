@@ -1,2 +1,0 @@
-{"name":"altria","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98bd8cfb906120617d1edbde5ea817adf0fe85533e6dbb1eeb4e7c59a29600e1","features":{},"yanked":false}
-{"name":"altria","vers":"0.1.1","deps":[],"cksum":"da698b80d50335ad78f604434b465db17dd5519914a12136a73f83ea4c0d0abb","features":{},"yanked":false}
