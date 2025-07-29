@@ -3,3 +3,4 @@
 {"name":"asahi_macros","vers":"0.1.4","deps":[],"cksum":"a4cc5d90c888a57ad1f731c083e7cdaf7317bd18f48d571b1855405bdaad075a","features":{},"yanked":false}
 {"name":"asahi_macros","vers":"0.1.5","deps":[],"cksum":"c251c1c1c7ee571ee52cb1bd5d00b343eceb22afd3ec0d55708077b836cb2d5f","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"asahi_macros","vers":"0.1.6","deps":[],"cksum":"640e0ed27de542d55db0bfc8120e8b5264033e9cad849045d0d080252abaaf47","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"asahi_macros","vers":"0.1.7","deps":[],"cksum":"6d8848f80a112da1f4775be39a1191868133c79c4ab62711ee38b32e580a3ea0","features":{},"yanked":false,"rust_version":"1.88"}
