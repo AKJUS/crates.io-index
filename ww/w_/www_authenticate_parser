@@ -1,0 +1,1 @@
+{"name":"www_authenticate_parser","vers":"1.0.0","deps":[{"name":"unicase","req":"^2.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"554b3430d96df4402a8ac80e373876168ca07203f355e4c3a6eefb332d1a4aa1","features":{},"yanked":false}
