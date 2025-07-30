@@ -1,1 +1,2 @@
 {"name":"terminal_style","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8ff1d2b54d221d6bfeecc86e82f95535fec26d157af0cc59a3fd7bcb98b67467","features":{},"yanked":false}
+{"name":"terminal_style","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f6ac51088aef82b9b5431f3e6dda8c30c28ecff9ccc1f9f7f43f316f48bb5af","features":{},"yanked":false}
