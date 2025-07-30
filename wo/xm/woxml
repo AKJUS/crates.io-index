@@ -1,1 +1,2 @@
 {"name":"woxml","vers":"0.1.0","deps":[],"cksum":"b616ff8b32fc92132e5d11a235148a65c05296f591a58bb8ebcc66e9bb571fb3","features":{},"yanked":false}
+{"name":"woxml","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07fd2a84cfa5b2888cf6dbac7f7299253c18b9f19958b8ed3ba12d54ad2434c7","features":{},"yanked":false}
