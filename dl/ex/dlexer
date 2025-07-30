@@ -4,3 +4,4 @@
 {"name":"dlexer","vers":"0.1.3","deps":[],"cksum":"07532736b568d6d2e0631c39fa793b490eb579dc9afb8f8aad0892a60e89c1fb","features":{"experimental":[]},"yanked":false}
 {"name":"dlexer","vers":"0.1.4","deps":[],"cksum":"c99cdb0f0d5669beca74ca5031155d1ff4b2886aea34649c8810e96b96ffba83","features":{"experimental":[]},"yanked":false}
 {"name":"dlexer","vers":"0.1.5","deps":[],"cksum":"66232808d92b297d6ca18a20ea91d22af8f5030df9151c1167ab08b20fca4e9f","features":{"experimental":[]},"yanked":false}
+{"name":"dlexer","vers":"0.1.6","deps":[],"cksum":"ff8add3998ec7e0dcc52ee93ad6fee08477031478d8295dffcc2d9a755c313f7","features":{"experimental":[]},"yanked":false}
