@@ -1,0 +1,1 @@
+{"name":"net-relay","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e80e16a82446d500aa3e3aa2b12d7d6c7f099714d780b84c4f1344b54365e8d6","features":{},"yanked":false}
