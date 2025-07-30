@@ -1,1 +1,2 @@
 {"name":"riscv-codec-proc-macros","vers":"0.1.0","deps":[{"name":"litrs","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8bd8680a25402d03dfc5dd4e7e238bc229bd1ba8ff9a14d561d151813ddf7d6","features":{},"yanked":false}
+{"name":"riscv-codec-proc-macros","vers":"0.2.0","deps":[{"name":"litrs","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c44de5a73bd5b887397bda21173cfc1fa15bc8e3515e6de829236d2669e8d2d6","features":{},"yanked":false}
