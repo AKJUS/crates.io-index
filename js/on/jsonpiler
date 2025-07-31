@@ -19,3 +19,4 @@
 {"name":"jsonpiler","vers":"0.3.2","deps":[],"cksum":"77a18a3f24418fbbc40190f1c6c226ee65289b12d12bb8959ed6ffbc5637461f","features":{},"yanked":false}
 {"name":"jsonpiler","vers":"0.3.3","deps":[],"cksum":"06056d0c5d7178dc202f5a3f611f11d4e770247661c2b90e508abe45c293f8b7","features":{},"yanked":false}
 {"name":"jsonpiler","vers":"0.3.4","deps":[],"cksum":"8b26f8aeade920a4e672b2ffa67671400716a16e544250f4cb28451229722b36","features":{},"yanked":false}
+{"name":"jsonpiler","vers":"0.3.5","deps":[],"cksum":"303f1df98dbab338e410b0cfab097f3e550a59390b1a103bd4588cd0e7b21223","features":{},"yanked":false}
