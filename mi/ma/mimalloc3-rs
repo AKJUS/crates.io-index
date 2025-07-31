@@ -1,0 +1,1 @@
+{"name":"mimalloc3-rs","vers":"0.0.1","deps":[{"name":"libmimalloc3-sys","req":"^3.1.6-dev3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55d937ec689be2a36f7ff77d1d21931b4f8a7abfbee88b2aa80db7e32a39cd43","features":{"default":[]},"yanked":false}
