@@ -1,0 +1,1 @@
+{"name":"net-pool","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d47f150e14677f56c20bd3424314e334fbedb57d715402c182ddad235ca9345","features":{},"yanked":false}
