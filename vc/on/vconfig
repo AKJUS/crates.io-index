@@ -1,0 +1,1 @@
+{"name":"vconfig","vers":"0.0.0","deps":[{"name":"variants_de","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1b18e550e8e13d7f4ccb4dbd72011810486db64c3d3d2d88cfc7817cc80775a","features":{},"yanked":false,"rust_version":"1.88"}
