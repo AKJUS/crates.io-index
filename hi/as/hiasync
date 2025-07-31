@@ -6,3 +6,4 @@
 {"name":"hiasync","vers":"0.1.5","deps":[],"cksum":"a0f217fcf4008953c5c311790467f0f14af5eaeef44d7d49d093a9727c25e664","features":{},"yanked":false}
 {"name":"hiasync","vers":"0.1.6","deps":[],"cksum":"0d20e0f5fc0c6bcaa159137c9c3c669526cbdcff95c11dfd0e959ff856937ba9","features":{},"yanked":false}
 {"name":"hiasync","vers":"0.2.0","deps":[],"cksum":"ced0b4c8e30e109e025f34a8b49c9a1ea41c421b243d17d787bc57c11315ea43","features":{},"yanked":false}
+{"name":"hiasync","vers":"0.2.1","deps":[],"cksum":"a60f301e00b90622629eb8634471841931ed7ccb37c0d58a28b8c4c598714f69","features":{},"yanked":false}
