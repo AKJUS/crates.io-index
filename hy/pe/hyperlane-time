@@ -22,3 +22,4 @@
 {"name":"hyperlane-time","vers":"0.7.0","deps":[],"cksum":"080da9d80439b5dc3b75374b48f8aedf51f445960d72874714e08c1cf71b0aa1","features":{},"yanked":false}
 {"name":"hyperlane-time","vers":"0.7.1","deps":[],"cksum":"d4317bbfe18957c236d1a7e8376a3d5612f86dbe34fd3d75b82411386e4d2b04","features":{},"yanked":false}
 {"name":"hyperlane-time","vers":"0.7.2","deps":[],"cksum":"5f3bc3f8fa41d55a06e5fe468016a33b6ccc011ae524b4592b12c51a2651b16c","features":{},"yanked":false}
+{"name":"hyperlane-time","vers":"0.7.3","deps":[],"cksum":"2398b90ccee6c47d163bbf1a1af956f631233caa13bbd9ae3f25d6afbcdc36a5","features":{},"yanked":false}
