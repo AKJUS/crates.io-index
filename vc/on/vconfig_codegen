@@ -1,0 +1,1 @@
+{"name":"vconfig_codegen","vers":"0.0.0","deps":[{"name":"variants_de","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c0f925cab4d325db49379ddbd7a1a03a4f84a01a24fb37976ded3bece309680","features":{},"yanked":false,"rust_version":"1.88"}
