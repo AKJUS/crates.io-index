@@ -1,1 +1,2 @@
 {"name":"type-exts","vers":"0.1.0","deps":[],"cksum":"a361664859516e90ffa08be9f09f9e357fbcf2635fafc16eff25ea3cbe99fc6a","features":{},"yanked":false}
+{"name":"type-exts","vers":"0.1.1","deps":[],"cksum":"ee22c52bc6639ec50c8668518b5071e06a61be072c923c00b836ec5f26e4f3a5","features":{"default":[],"str":[]},"yanked":false}
