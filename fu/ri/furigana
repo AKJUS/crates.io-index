@@ -10,3 +10,4 @@
 {"name":"furigana","vers":"0.1.9","deps":[],"cksum":"617d31e216ba9dce165c8c8828ba9a79b8956b22fcf7bf6f78a8114432c9211c","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"furigana","vers":"0.1.10","deps":[],"cksum":"4f3083b00a4a9100bbcac55027049a40b0be9b3fdc9d75d08bda13159c8cc2b6","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"furigana","vers":"0.1.11","deps":[],"cksum":"1405a83796ce5b3b013f8baca8c7ed5cf855298414c85bdeae41bb3e79f9376d","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"furigana","vers":"0.1.12","deps":[],"cksum":"5d9f7f84d25d7b1ebb68ebdce394c44933a6720fee3b87f87e7c127c56417ef3","features":{},"yanked":false,"rust_version":"1.85"}
