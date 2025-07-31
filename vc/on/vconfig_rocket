@@ -1,0 +1,1 @@
+{"name":"vconfig_rocket","vers":"0.0.0","deps":[{"name":"variants_de","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee5003b0beca59ecabe843096f304503d3c343f4dd522865b7760653324a1c21","features":{},"yanked":false,"rust_version":"1.88"}
