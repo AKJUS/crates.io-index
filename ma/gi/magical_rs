@@ -3,3 +3,4 @@
 {"name":"magical_rs","vers":"0.0.3","deps":[],"cksum":"083d108ca72c4bfe03dd507f2ba73c2cdb8ff19a031f2af4ce7c8f18eb725ff1","features":{},"yanked":false}
 {"name":"magical_rs","vers":"0.0.4","deps":[],"cksum":"d20267f3ea27984dc6c09d82defaba019b4eedabdf832acb88168c9e9c10b3fa","features":{},"yanked":false}
 {"name":"magical_rs","vers":"0.0.5","deps":[],"cksum":"a1d38ed089074f2e9d2b77f9771bafc5d29eb3d061efcf5630d04a42516acb23","features":{},"yanked":false}
+{"name":"magical_rs","vers":"0.0.6","deps":[],"cksum":"688d8c2eb9b363badf76d6095a9050b23d00c3b2324d904cab32e1eafe593b66","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false}
