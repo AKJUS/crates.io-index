@@ -27,3 +27,4 @@
 {"name":"swamp-ast","vers":"0.2.18","deps":[],"cksum":"a42b568e6749c76953c93f07df40a665326e274ec3e4be1994017dae4876150b","features":{},"yanked":false}
 {"name":"swamp-ast","vers":"0.2.19","deps":[],"cksum":"aecbec3b7f7b39e70e5f33eab8490352e483330ce054fae3898dfff12945dc0b","features":{},"yanked":false}
 {"name":"swamp-ast","vers":"0.2.20","deps":[],"cksum":"97e14f1ac4a2a79f28ecee55aa94d905d7405995901e2fda3f27adef6cac7cbb","features":{},"yanked":false}
+{"name":"swamp-ast","vers":"0.2.21","deps":[],"cksum":"84c2dccd329623b475f1dc2b6d90ee3401a23502a0aa5ea1be9e5c7e9eb58a9b","features":{},"yanked":false}
