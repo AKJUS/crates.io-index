@@ -25,3 +25,4 @@
 {"name":"iepub-derive","vers":"0.9.0","deps":[],"cksum":"5e254b26b9f3dda107d7b1cf098e24e0627a145643537e8c5d1bc0b226b74568","features":{},"yanked":false}
 {"name":"iepub-derive","vers":"0.9.1","deps":[],"cksum":"153c1ed51fd066c3125f738bffca647be9f675b09502885259d75e3d443a7693","features":{},"yanked":false}
 {"name":"iepub-derive","vers":"1.0.0","deps":[],"cksum":"2c9f3ceedd110f567622ad3a07f60062b362591b19816b110862c39f5ca72069","features":{},"yanked":false}
+{"name":"iepub-derive","vers":"1.0.1","deps":[],"cksum":"96196399fe4851c1535dcc074077f873e228e283261026156352a18a49b64fc0","features":{},"yanked":false}
