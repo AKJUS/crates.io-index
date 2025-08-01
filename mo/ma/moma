@@ -2,3 +2,4 @@
 {"name":"moma","vers":"0.1.1","deps":[],"cksum":"088daf401906f968ac2b85ea46e4c71db753c28c6f23760ea1179f8dc0567329","features":{},"yanked":false}
 {"name":"moma","vers":"0.1.2","deps":[],"cksum":"ca173f95b4b23a96831f093975b31bba469ae4c8a14975e2dbc8078059e6d55d","features":{},"yanked":false}
 {"name":"moma","vers":"0.1.3","deps":[],"cksum":"509e8252065ccdca95c7a5eff3a839bb21ea37aff14733484925e2da2e9d11bf","features":{},"yanked":false}
+{"name":"moma","vers":"0.1.4","deps":[],"cksum":"a6b74dd8fc6548f31a3e96a9b667ec046daed74654273636baa3c91013097fb0","features":{},"yanked":false}
