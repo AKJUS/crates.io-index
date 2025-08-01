@@ -14,3 +14,4 @@
 {"name":"bin-encode-decode","vers":"1.0.2","deps":[],"cksum":"954bb936f24a00e859e8ca074f96286ba4e91f5c7053ec01a36428fba9860750","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.0","deps":[],"cksum":"6db0bce7c431a5f8bc60e457f67737405b76f087b0e6313f1bb3a6f0efa4735d","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.1","deps":[],"cksum":"91bb25e2240f22f2196664d8a42875d8afcac7e5cdc5a223c77267da5e5adfe4","features":{},"yanked":false}
+{"name":"bin-encode-decode","vers":"1.1.2","deps":[],"cksum":"fb1334a308b909e527f93fc764ec58de5b4e27acf8a47f2abaa30877847c35da","features":{},"yanked":false}
