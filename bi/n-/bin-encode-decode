@@ -15,3 +15,4 @@
 {"name":"bin-encode-decode","vers":"1.1.0","deps":[],"cksum":"6db0bce7c431a5f8bc60e457f67737405b76f087b0e6313f1bb3a6f0efa4735d","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.1","deps":[],"cksum":"91bb25e2240f22f2196664d8a42875d8afcac7e5cdc5a223c77267da5e5adfe4","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.2","deps":[],"cksum":"fb1334a308b909e527f93fc764ec58de5b4e27acf8a47f2abaa30877847c35da","features":{},"yanked":false}
+{"name":"bin-encode-decode","vers":"1.1.3","deps":[],"cksum":"80d0d26efdcac5a2e34d6767e5f5239cb22a0f7e063e8eabf86c6e4b0227acdd","features":{},"yanked":false}
