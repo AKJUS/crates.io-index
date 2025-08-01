@@ -1,0 +1,1 @@
+{"name":"holger","vers":"0.0.1","deps":[{"name":"holger-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62faccd64d92c921a9717d1dd011ded286278a7d0aa4cbeb821f3651f9dc4a70","features":{},"yanked":false}
