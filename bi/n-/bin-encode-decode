@@ -24,3 +24,4 @@
 {"name":"bin-encode-decode","vers":"1.1.10","deps":[],"cksum":"28d91340749481f55f3ff290c1c28b710036b4d1ea56c28e6409c5ea3c771bcf","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.12","deps":[],"cksum":"21f33baf81bcf95a4a791262eb96891ae2910b48653f62072e550241f88f36b2","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.13","deps":[],"cksum":"9626b57d8551cb470ba7d62f997a39e3c68f13f2d262f8013f35a5cb0d2e3a6e","features":{},"yanked":false}
+{"name":"bin-encode-decode","vers":"1.1.14","deps":[],"cksum":"c22540442d1b46cb96a4c453cad274b5714f50f342649cad988ca2109b991ce0","features":{},"yanked":false}
