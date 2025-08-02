@@ -78,3 +78,4 @@
 {"name":"tcp-request","vers":"2.2.9","deps":[],"cksum":"d2c9b88ec9a05d8ef245d4e56d2a6b977e9c490bdc77aa0dec6a6fd53d35069f","features":{},"yanked":false}
 {"name":"tcp-request","vers":"2.2.10","deps":[],"cksum":"ca7c2954a4535c8d11c7d74a83acc59f4b4f8f4d95a3abc62581a5a6f70e8699","features":{},"yanked":false}
 {"name":"tcp-request","vers":"2.3.0","deps":[],"cksum":"ac12bdf33f8529f61725e175d6af0d9927038130a9f99ca420e46b63830fb309","features":{},"yanked":false}
+{"name":"tcp-request","vers":"2.3.1","deps":[],"cksum":"912c2deb93eed329692ac901b04c2bf115ae726aa7fa6c87f4dd1e3859d42b70","features":{},"yanked":false}
