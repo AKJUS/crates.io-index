@@ -1,0 +1,1 @@
+{"name":"bignum-ig","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3639e6e52d6a0db9838540eb5a266385e92996c448fd26414e7ec0af81c43de","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
