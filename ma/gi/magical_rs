@@ -10,3 +10,4 @@
 {"name":"magical_rs","vers":"0.0.10","deps":[],"cksum":"03aeca92e1523b7af96c111b53c46de72ee57606cadeffe3c8f2c1541ba9273c","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"magical_rs","vers":"0.1.0","deps":[],"cksum":"9c74a8909c8c7c1877aafd602591e520c31bd3d4af89e09cbf5ea3fda3aee472","features":{"default":[],"magical_dyn":[],"no_std":[]},"yanked":false}
 {"name":"magical_rs","vers":"0.1.1","deps":[],"cksum":"56d246b5fd4ba1837c0e3dace54c883aa90ca96f3db8add4c8c9e6a3187528e5","features":{"default":["std"],"magical_dyn":[],"std":[]},"yanked":true}
+{"name":"magical_rs","vers":"0.1.2","deps":[],"cksum":"7ac584c106e65f4f94ca583a9b2f914afd53b6ad6b927ba760506235a76308a6","features":{"default":["std"],"magical_dyn":[],"std":[]},"yanked":false}
