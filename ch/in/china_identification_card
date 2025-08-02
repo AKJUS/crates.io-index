@@ -23,3 +23,4 @@
 {"name":"china_identification_card","vers":"1.1.4","deps":[],"cksum":"942077667592b7799f3c24693bb4632e0c078d2f46969f16a0783b623b9d16a5","features":{},"yanked":false}
 {"name":"china_identification_card","vers":"1.1.5","deps":[],"cksum":"0b64c42a4a793e1fa915179c420ef285d8f9054f3187d32752898f7f56f6f589","features":{},"yanked":false}
 {"name":"china_identification_card","vers":"1.1.8","deps":[],"cksum":"ff2f751cbf59b2405b3fa01de12f8c2b35d5df0288a9a4bee2f93c061077c376","features":{},"yanked":false}
+{"name":"china_identification_card","vers":"1.1.9","deps":[],"cksum":"73e0d5059460ef7f40dd616a2f85e6acc65d87f9db4736e65d71dc0bfabda4e0","features":{},"yanked":false}
