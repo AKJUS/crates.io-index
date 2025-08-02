@@ -1,0 +1,1 @@
+{"name":"lib","vers":"0.0.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"912094961932c5f0af8635b3854aebe831a8ef951dc3bbec780dfd8dd4b99684","features":{"container":[],"default":["math"],"math":[],"tool":[]},"yanked":false}
