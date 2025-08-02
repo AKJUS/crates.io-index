@@ -23,3 +23,4 @@
 {"name":"udp-request","vers":"0.3.0","deps":[],"cksum":"c96c81017de805acc6d34bc1ba4067b187465bd76c513c6102f122a242f16b09","features":{},"yanked":false}
 {"name":"udp-request","vers":"0.3.1","deps":[],"cksum":"40e573c58f4b79a8186520ae972ff6c91574d9747c3163c4b6c76f18634e8d7f","features":{},"yanked":false}
 {"name":"udp-request","vers":"0.3.2","deps":[],"cksum":"e2d85cac637a8ea15c1761f31ada9da174c14a321324badc149b039d1a50eac5","features":{},"yanked":false}
+{"name":"udp-request","vers":"0.3.3","deps":[],"cksum":"4c9a1557cdcedcd0803f82870f8458bd32009ee46faffe7e840885518f93fc8c","features":{},"yanked":false}
