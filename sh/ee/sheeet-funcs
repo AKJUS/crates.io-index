@@ -1,1 +1,2 @@
 {"name":"sheeet-funcs","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2.100","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0a41a91b09b5507f33803453b27efb7e8fd663c374cd427358cad22c47d0a58","features":{"http":[]},"yanked":false}
+{"name":"sheeet-funcs","vers":"0.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2.100","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a7a4f008c1fd74eb2d403fa7cd28d4b96d04b02f235b759fe9fcbd313d1e6ba","features":{"http":[]},"yanked":false}
