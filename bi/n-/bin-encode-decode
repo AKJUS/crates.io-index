@@ -29,3 +29,4 @@
 {"name":"bin-encode-decode","vers":"1.1.16","deps":[],"cksum":"1ceca949980e0babbfb44969332eb3fb7964fc8e484b184fa6a5972a77017ea3","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.17","deps":[],"cksum":"ce0bf5416ebefe2d83b232dc6a2b74c9aeeff0b3df7d434f9747bfa50a5efa9e","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.18","deps":[],"cksum":"db7d8d53c82780c8216ec44701980727b2e0b7780a70d090eb16f7d233709d9e","features":{},"yanked":false}
+{"name":"bin-encode-decode","vers":"1.1.19","deps":[],"cksum":"e93dd230acbaeaa9a0241bf48ab0ddacc032fee50a3efbfc42c4225f78b16a50","features":{},"yanked":false}
