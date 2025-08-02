@@ -17,3 +17,4 @@
 {"name":"compare_version","vers":"1.0.0","deps":[],"cksum":"8a81172d3a2eb49276707c98711f3ea49a11f5566e4cb3092c738bbb7fd2098b","features":{},"yanked":false}
 {"name":"compare_version","vers":"1.0.1","deps":[],"cksum":"6638ec269e85c3ac62264e8320bed58e4e09a9eb0eefd63c2fd3f0fead65b3d8","features":{},"yanked":false}
 {"name":"compare_version","vers":"1.2.0","deps":[],"cksum":"7262e0aa36f015e747597f1e94ba0fdd89f4135eb3b4355fcb50a0e32bbaebb5","features":{},"yanked":false}
+{"name":"compare_version","vers":"1.2.1","deps":[],"cksum":"062e6bc3c2d07db4110f20500467ab9523114e1928e84332d7126f03cb362fc6","features":{},"yanked":false}
