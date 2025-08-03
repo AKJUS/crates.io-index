@@ -1,1 +1,2 @@
 {"name":"mbl","vers":"0.1.0","deps":[{"name":"rust_decimal","req":"^1.37.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"489794c19e9e3f06e5460e09fd40b6faf49cdb2ec94c231b216268b80dc22a92","features":{},"yanked":true}
+{"name":"mbl","vers":"0.1.1","deps":[{"name":"rust_decimal","req":"^1.37.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98d72148f85e792a6c818bab4b24a24afb15c23a738e25cf8e58f0bc88355a44","features":{},"yanked":false}
