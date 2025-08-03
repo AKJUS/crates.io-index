@@ -5,3 +5,4 @@
 {"name":"bau","vers":"0.3.1","deps":[],"cksum":"af5ebd357166b6709a981748c63dfaafbd4693941f9251c5e9bb1b089945064e","features":{},"yanked":false,"rust_version":"1.88"}
 {"name":"bau","vers":"0.4.0","deps":[],"cksum":"87d29ef694dbf28a355512f21deac0806e2ce0c324ce7693ce51cf2d211b8855","features":{},"yanked":false,"rust_version":"1.88"}
 {"name":"bau","vers":"0.5.0","deps":[],"cksum":"18d88796e3b0a545d2d96f839ce3f350f9bc178256c5844c246dc10f0566fa62","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.5.1","deps":[],"cksum":"124b3105fc022017d95696b4a7f79b84f1be5e2f0f5aef9207d576d37f520934","features":{},"yanked":false,"rust_version":"1.88"}
