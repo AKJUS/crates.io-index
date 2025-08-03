@@ -1,2 +1,3 @@
 {"name":"microrust","vers":"0.0.0","deps":[],"cksum":"ffbe24011e5a7f9f85a44051f52272d09c3bff9a55ec81b32289724c46eae0b7","features":{},"yanked":true}
 {"name":"microrust","vers":"0.0.0-alpha.0","deps":[],"cksum":"2a439ea8e7cfe1d5e3a6bab828d967a3389388138c254927856451df888dca2a","features":{},"yanked":false}
+{"name":"microrust","vers":"0.0.0-alpha.1","deps":[],"cksum":"b12bdcc7ca8e20d42118da019b850a70296228cab85ab5c9249343aaefdcaa22","features":{},"yanked":false}
