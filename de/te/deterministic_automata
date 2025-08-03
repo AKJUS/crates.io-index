@@ -1,2 +1,2 @@
 {"name":"deterministic_automata","vers":"0.1.0","deps":[],"cksum":"01e9759f698143d251d12d621b0f2844b09e6ee1e018698755c3c6984b42a10d","features":{},"yanked":false}
-{"name":"deterministic_automata","vers":"0.1.1","deps":[{"name":"either","req":"^1.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ded2ba87a5f2d7f04bdf3ca455112e43e97bccc5e91b650059a0bf79e928df6","features":{},"yanked":false}
+{"name":"deterministic_automata","vers":"0.1.1","deps":[{"name":"either","req":"^1.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ded2ba87a5f2d7f04bdf3ca455112e43e97bccc5e91b650059a0bf79e928df6","features":{},"yanked":true}
