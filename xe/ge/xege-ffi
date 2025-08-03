@@ -1,0 +1,1 @@
+{"name":"xege-ffi","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.2.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ed581debd3e5926e630fde2d2414a2f97318fbb9d11f206167d882b7b65a7a87","features":{},"yanked":false}
