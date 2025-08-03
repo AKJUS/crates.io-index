@@ -1,0 +1,1 @@
+{"name":"squirrel_noise5","vers":"1.0.0","deps":[{"name":"rand","req":">=0.9.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b98a5483f567ed278cbcc98bacdf45de5ddafb9d2811322b9ea28e79f884fd8","features":{"rand_squirrel":["rand"]},"yanked":false}
