@@ -1,0 +1,1 @@
+{"name":"outfox","vers":"0.1.0","deps":[{"name":"outfox-openai","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3c1ba762408be45e5068002837ff4e4e880bce8cca89eb5b526eaf7b46a8e6cd","features":{"default":[]},"yanked":false,"rust_version":"1.85"}
