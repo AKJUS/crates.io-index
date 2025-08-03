@@ -1,0 +1,1 @@
+{"name":"biip","vers":"0.1.0","deps":[{"name":"dotenv","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e4f8833893b13165f169746381b5a204454c1a688481bda44ebae2f0082591a","features":{},"yanked":false}
