@@ -1,0 +1,1 @@
+{"name":"aa-dot","vers":"0.0.1","deps":[{"name":"aa-dot-cli","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3369fe0374eb2c1290b5da8550f0c7f0694785a2de8a380441287449788a4951","features":{},"yanked":false}
