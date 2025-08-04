@@ -1,0 +1,1 @@
+{"name":"gracekill","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae3ced9e9a1e572888032db94dc0dd2a633add7a7dea21aa150e50d9594fed06","features":{},"yanked":false}
