@@ -1,0 +1,1 @@
+{"name":"pgat","vers":"0.1.0","deps":[{"name":"doc-comment","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bd6729d3e38452ccfec99f4cdb0eeadf51d78a4e2a2cb681078af121211788f","features":{},"yanked":false}
