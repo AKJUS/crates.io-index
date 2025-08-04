@@ -8,3 +8,4 @@
 {"name":"hmm_tblout","vers":"0.4.2","deps":[],"cksum":"85101046f449e94e4826f55f85c3541b1593bc8c4c77e5f2fca6b016853ac288","features":{},"yanked":false}
 {"name":"hmm_tblout","vers":"0.4.21","deps":[],"cksum":"da2febb80d811bec6d840559b71325d370baf17daff36c345e4a8d38a5534dd9","features":{},"yanked":false}
 {"name":"hmm_tblout","vers":"0.4.22","deps":[],"cksum":"b1ff493f372cdb7813464bf1fa1fe5d37f1db144816a777ce8b90d8b0b2222d1","features":{},"yanked":false}
+{"name":"hmm_tblout","vers":"0.4.23","deps":[],"cksum":"f05bf575cd06d0dbf330cd698e5b4d6baf9393fffe2bea6f981b82586fedd4c1","features":{},"yanked":false}
