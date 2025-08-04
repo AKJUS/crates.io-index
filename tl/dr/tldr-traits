@@ -1,0 +1,1 @@
+{"name":"tldr-traits","vers":"0.0.0","deps":[],"cksum":"21e08590b6a1fd957bf556a8b953379587d23fa816c64f8888af7e04a52f5aef","features":{"all":["serde"],"default":["all","std"],"serde":[],"std":[],"unstable":[]},"yanked":false}
