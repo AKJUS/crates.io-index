@@ -16,3 +16,4 @@
 {"name":"linux-boot-params","vers":"0.15.0","deps":[],"cksum":"1f61ff6d2cbaa8cbf32d311446697020bb4c430bb7d1cbab0bc27588f891b527","features":{},"yanked":false}
 {"name":"linux-boot-params","vers":"0.15.1","deps":[],"cksum":"306c88e1e02b2b77ad54747ec14b20fbebdcdeebc811dfcc0868d020f5e5c6b0","features":{},"yanked":false}
 {"name":"linux-boot-params","vers":"0.15.2","deps":[],"cksum":"302e0436b891a02d39f0f15ca079e02e11920f439f1aeeaaa64ccc838616ef47","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.16.0","deps":[],"cksum":"fe64cefd62a62d24035dfcaceed0aaa6d450abc3f3d378f2d6543b2743101034","features":{},"yanked":false}
