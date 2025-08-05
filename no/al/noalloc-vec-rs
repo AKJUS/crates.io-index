@@ -1,0 +1,1 @@
+{"name":"noalloc-vec-rs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3a7941c19388720fc3e407f40429bebb8ad5e3b867dee101159d1e813a414f9d","features":{},"yanked":false,"rust_version":"1.88"}
