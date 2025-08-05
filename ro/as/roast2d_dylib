@@ -1,0 +1,1 @@
+{"name":"roast2d_dylib","vers":"0.3.0-alpha.1","deps":[{"name":"roast2d_internal","req":"^0.3.0-alpha.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f1da29bfdbf9d4016b7bd01defb2b199ad625af7297703e2d636439f11b86f74","features":{},"yanked":false}
