@@ -12,3 +12,4 @@
 {"name":"minmath","vers":"1.0.0","deps":[],"cksum":"97985636363bffc6492f3ae041887aed4bfeac4ca0945e8aadb9ab96b03ecee4","features":{},"yanked":false}
 {"name":"minmath","vers":"1.0.1","deps":[],"cksum":"1400f335ae7a916fb426b123f68060104d5bb49b254ace6d519ea97d6ea9178a","features":{},"yanked":false}
 {"name":"minmath","vers":"1.1.0","deps":[],"cksum":"db92c52ea38062da7c6539357dc04adbd84656ab45f582c1f573f31ded169445","features":{},"yanked":false}
+{"name":"minmath","vers":"1.2.0","deps":[],"cksum":"59e49a4fa60a094b39d28b9646593bd3b1a9a0cad8a1f7b6c52e437caa8a938f","features":{},"yanked":false}
