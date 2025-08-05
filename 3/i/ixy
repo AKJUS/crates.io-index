@@ -13,3 +13,4 @@
 {"name":"ixy","vers":"0.5.7","deps":[],"cksum":"1293ac0a90d43891a70c09cfd3169d12040acbcdb893de197e1f48a4356321f4","features":{},"yanked":false}
 {"name":"ixy","vers":"0.6.0-alpha.1","deps":[],"cksum":"9b11fd9379667c3b3f98f4fea3ae9516936dbf4b536c699dd7b75800b488bbe0","features":{},"yanked":false}
 {"name":"ixy","vers":"0.6.0-alpha.2","deps":[],"cksum":"688e0abab84f6b737cbbd6d80be3e2a028bb8802acec9d9d15481b470047de51","features":{},"yanked":false}
+{"name":"ixy","vers":"0.6.0-alpha.3","deps":[],"cksum":"147dc07914b6fdb83008a9b5484293665c4db9174d4c0d291e662f953b7688ad","features":{},"yanked":false}
