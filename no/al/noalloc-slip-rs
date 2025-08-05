@@ -1,0 +1,1 @@
+{"name":"noalloc-slip-rs","vers":"0.1.0","deps":[{"name":"noalloc-vec-rs","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"699dd7c17910d11e290189e550675e28ace2d915445d988b9153cbd4185c4f90","features":{},"yanked":false,"rust_version":"1.88"}
