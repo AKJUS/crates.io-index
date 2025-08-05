@@ -9,3 +9,4 @@
 {"name":"botan-src","vers":"0.30701.1","deps":[],"cksum":"ea2895fd808614fb47dd79ed916b7d036875f1dec0c27196818ad333e1c08036","features":{},"yanked":true,"rust_version":"1.64"}
 {"name":"botan-src","vers":"0.30701.2","deps":[],"cksum":"8c4e1c7910f3b4712aed10e4259eca77e79ed84c1b023098c8eac596b993fc44","features":{},"yanked":false,"rust_version":"1.64"}
 {"name":"botan-src","vers":"0.30900.1","deps":[],"cksum":"a88e12835792947b309b91713daccb011f814092997b8784c1d4d5695d2d7739","features":{},"yanked":false,"rust_version":"1.64"}
+{"name":"botan-src","vers":"0.30900.2","deps":[],"cksum":"9bc24a437ed9a438eaace54677eead87931fcdf5cb9fef85567be2f82d8c5d92","features":{},"yanked":false,"rust_version":"1.64"}
