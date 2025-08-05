@@ -6,5 +6,5 @@
 {"name":"regulus","vers":"0.0.6","deps":[],"cksum":"f037dc5125dc73118dad7218080bdf05c96229dd0638bda7dff17f94367aa50b","features":{"default":[],"display_impls":[]},"yanked":false}
 {"name":"regulus","vers":"0.0.7","deps":[],"cksum":"99709f9af7832c3890e631c128e1ff4a6d14bdc99003ca97b7b79ef8dbfddbe7","features":{"default":[]},"yanked":false}
 {"name":"regulus","vers":"0.0.8","deps":[],"cksum":"25a650f9c6499da0da36e85bbd2f47ecfbf27be111bcb2530868ccb6d2c52e7b","features":{"default":[]},"yanked":false}
-{"name":"regulus","vers":"0.0.9","deps":[],"cksum":"04022e01760dd368ead2510d6a1aee05edf4c46af6c7ad3a9a0eea4ce05d235e","features":{"default":[]},"yanked":false}
+{"name":"regulus","vers":"0.0.9","deps":[],"cksum":"04022e01760dd368ead2510d6a1aee05edf4c46af6c7ad3a9a0eea4ce05d235e","features":{"default":[]},"yanked":true}
 {"name":"regulus","vers":"0.0.10","deps":[],"cksum":"2c2e1bf1dfa19e2c27b1eb92e99fb214a4f179a7b5a2dcd81b18d0193d199f33","features":{"default":[]},"yanked":false}
