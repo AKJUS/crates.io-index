@@ -1,0 +1,1 @@
+{"name":"core-sys-test-haobo","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4cca152d5e3da4c042771357aa8012aeb95694613a8ca1cc11dfbbafe1cf41f2","features":{},"yanked":false,"links":"the_c_library"}
