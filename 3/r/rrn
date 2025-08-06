@@ -1,0 +1,1 @@
+{"name":"rrn","vers":"0.1.0","deps":[{"name":"getopt","req":"^1.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"196eab82473b9aa82dd6c905d32e57e9d51f15cfbd205122a69e5641cf69fff9","features":{},"yanked":false}
