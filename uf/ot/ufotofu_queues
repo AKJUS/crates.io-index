@@ -5,3 +5,4 @@
 {"name":"ufotofu_queues","vers":"0.4.1","deps":[],"cksum":"57eb67569d0473b820d7a29c9e6aa923500109cdf2b03e7bab01882dff48d3b9","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"ufotofu_queues","vers":"0.5.0","deps":[],"cksum":"d903d5bc0e14d24559dac3b9690d004ad3fb08d66f93d87d28f5cb3466b5b55b","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false}
 {"name":"ufotofu_queues","vers":"0.6.0","deps":[],"cksum":"9abd2f0123cc71fa3adf9329b85d9eb863874e489744803f3a41fff59b56968d","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.6.1","deps":[],"cksum":"56ceb4bd284eeef9206c4443954bd784c2c5fbbea78e14081a5419f276c71900","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false}
