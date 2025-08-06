@@ -14,3 +14,4 @@
 {"name":"magical_rs","vers":"0.1.3","deps":[],"cksum":"d79a244d2b2702ff18d4b37eac82190823d3d7cb5f84911b76d1b5364606e0b9","features":{"default":["std"],"magical_dyn":[],"std":[]},"yanked":false}
 {"name":"magical_rs","vers":"0.2.0","deps":[],"cksum":"d5b6ec31048c86b71298b313cf7742284190a7825a8b92871551374cc5fd414b","features":{"default":["std"],"magical_dyn":[],"std":[]},"yanked":false}
 {"name":"magical_rs","vers":"0.3.0","deps":[],"cksum":"fe65c1ad2746a5f92f1be95a1561ed639757db8f2c5f9cf8095511798e9ef2dc","features":{"default":["std"],"magical_async_dyn":[],"magical_dyn":[],"std":[]},"yanked":false}
+{"name":"magical_rs","vers":"0.3.1","deps":[],"cksum":"0751e567483458036b3106523908a89975051d7d8db39abf2386ddd8a5a54859","features":{"default":["std"],"magical_async_dyn":[],"magical_dyn":[],"std":[]},"yanked":false}
