@@ -1,0 +1,1 @@
+{"name":"email-components","vers":"0.1.0-alpha.0","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a0efc6356a1f4787f7dd10812764257ee57eeb8e7bb6b44b47529f77fd08bcd","features":{},"yanked":false}
