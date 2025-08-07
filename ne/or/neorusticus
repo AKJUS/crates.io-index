@@ -1,0 +1,1 @@
+{"name":"neorusticus","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b8d579f6e33ba0e2ecfc6749e3e8709dc5db26eed1c779a39ecc94af8f8aeca4","features":{"default":[]},"yanked":false}
