@@ -1,2 +1,3 @@
 {"name":"cidre-macros","vers":"0.1.0","deps":[],"cksum":"df4267981ec24c5af36696a826b4ceefb56466886760b1ea28d953e46ce66aac","features":{},"yanked":false}
 {"name":"cidre-macros","vers":"0.2.0","deps":[],"cksum":"8f07a383a232853874a9b0b3e80e6eefe9bea73495b8ab4bdd960bc7c1db4c6d","features":{},"yanked":false}
+{"name":"cidre-macros","vers":"0.3.0","deps":[],"cksum":"82bc2f84c0baaa09299da3a03864491549685912c1e338a54211e00589dc1e4c","features":{},"yanked":false}
