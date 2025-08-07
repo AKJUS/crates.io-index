@@ -9,3 +9,4 @@
 {"name":"cargo-test-macro","vers":"0.4.1","deps":[],"cksum":"b5b48a3283d47bbf868fb375979f02d4701c2f61f0620493711d2f0e4bbc3d87","features":{},"yanked":false,"rust_version":"1.84"}
 {"name":"cargo-test-macro","vers":"0.4.2","deps":[],"cksum":"41d5f58450c2ff589e2b50b2c2ac13b9a9d3b92bbec0b888ae7e7dbef715f89a","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"cargo-test-macro","vers":"0.4.3","deps":[],"cksum":"39a643a9f943fcf24470056bf031917f59d5a690846d08d8da06513427bd6739","features":{},"yanked":false,"rust_version":"1.86"}
+{"name":"cargo-test-macro","vers":"0.4.4","deps":[],"cksum":"69c7dd924a26f3a7260077387ecd3648698c4afef7fbed9a82fba22ea9162bc8","features":{},"yanked":false,"rust_version":"1.87"}
