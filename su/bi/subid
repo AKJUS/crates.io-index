@@ -1,0 +1,1 @@
+{"name":"subid","vers":"0.1.0","deps":[{"name":"subid-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d98f3300369f16b3a327e1b63b9c6bae3190d60afeb8342223f168cba3e8e64c","features":{},"yanked":false}
