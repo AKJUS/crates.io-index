@@ -1,1 +1,2 @@
 {"name":"termvas","vers":"0.1.0","deps":[{"name":"termion","req":"^4.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2144436ee29a4ef85d6cff3564b2984c7c5a5c583c9f3804adc5831c71fa994","features":{},"yanked":false}
+{"name":"termvas","vers":"0.1.1","deps":[{"name":"termion","req":"^4.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b1cc31e61d0cbbf918af62a29378af106a56110baa19a510e0417c65f11ab87","features":{},"yanked":false}
