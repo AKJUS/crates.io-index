@@ -1,0 +1,1 @@
+{"name":"sayo","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.43","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48c62258681652026df10313c90ed174ead8441f09ae9b7b81c6b8a709cbffae","features":{},"yanked":false}
