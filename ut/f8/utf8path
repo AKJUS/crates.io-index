@@ -7,3 +7,4 @@
 {"name":"utf8path","vers":"0.6.0","deps":[],"cksum":"6b6fc7116450918cc9e3043679e2331214438064f499d2cfcf1ea7e538d48a71","features":{},"yanked":false}
 {"name":"utf8path","vers":"0.7.0","deps":[],"cksum":"116f50178d1c25e91babfe61fff3c1a8b76c0fa6cca5f12ca51ae106e6c7830e","features":{},"yanked":false}
 {"name":"utf8path","vers":"0.8.0","deps":[],"cksum":"811599d1e860af1c71d67d416c993b09e9d9ed6cef8f22682d9c388f940d4351","features":{},"yanked":false}
+{"name":"utf8path","vers":"0.9.0","deps":[],"cksum":"7080aa04589feecfd6d6b665740cf1533119755938b0e2e614d2f933446eebf4","features":{},"yanked":false}
