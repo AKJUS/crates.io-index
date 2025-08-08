@@ -1,0 +1,1 @@
+{"name":"chaos-engine","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a06971b5bfb5a1fdd0ba0f095711c3bdb07354789a77d9bd035f193ab8e3a90","features":{},"yanked":false}
