@@ -1,0 +1,1 @@
+{"name":"e9571_config-reader","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58f67b97d0106e375b940fabe5fbd6c6fc12724eb6da0c60ff4e359a3e81da4a","features":{},"yanked":false}
