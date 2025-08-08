@@ -6,3 +6,4 @@
 {"name":"macrotime","vers":"2.0.1","deps":[],"cksum":"facf7ffdf2971d017cdb439c96c59a3dc3f2895c4cbc067277f5d88feb749290","features":{},"yanked":false}
 {"name":"macrotime","vers":"2.0.2","deps":[],"cksum":"8bf855c76dfd79dee35113019b01112d9694206a4327b59fc16285717fba6f47","features":{},"yanked":false}
 {"name":"macrotime","vers":"2.0.3","deps":[],"cksum":"f30f600a92777a4c90deb68a5fbd2f6dbd008f6568defbaeb786e1e092d8dba5","features":{},"yanked":false}
+{"name":"macrotime","vers":"2.0.5","deps":[],"cksum":"5a5f29ccce28c4214c508d4e5b294568332e5f033a8c472745b74b89bfd73331","features":{},"yanked":false}
