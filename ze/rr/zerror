@@ -6,3 +6,4 @@
 {"name":"zerror","vers":"0.5.0","deps":[],"cksum":"4161a24886e073c958ea79f1b6bad3f0a6b8329be8054b4acdfc59799c4eaec5","features":{},"yanked":false}
 {"name":"zerror","vers":"0.6.0","deps":[],"cksum":"a297c8dce1db7ec705ac689dbeffe41b2aa8ab628c94bcfd2a5e7c43452e25bb","features":{},"yanked":false}
 {"name":"zerror","vers":"0.7.0","deps":[],"cksum":"4335261cbb6af66e8188d32bd22fe9434fba06b2b03cbe1d4dc49820efb749e3","features":{},"yanked":false}
+{"name":"zerror","vers":"0.8.0","deps":[],"cksum":"be7696af200c5c35175f7653b856045ec8701be4a3a9028abf1926927d35a790","features":{},"yanked":false}
