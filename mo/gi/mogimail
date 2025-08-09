@@ -1,0 +1,1 @@
+{"name":"mogimail","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c7fb604dab080bed08b8459257874d8089d195608628f4f78563fa0e5fb06b5","features":{},"yanked":false}
