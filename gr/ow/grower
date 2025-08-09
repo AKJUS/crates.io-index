@@ -1,0 +1,1 @@
+{"name":"grower","vers":"0.0.1","deps":[{"name":"jsni","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"grower-jsni"}],"cksum":"bcd6215918d0e603da7092bd30d7c06469335e491625a57fa9cdb0fa11bccb2e","features":{},"yanked":false}
