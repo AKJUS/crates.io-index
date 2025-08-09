@@ -1,0 +1,1 @@
+{"name":"platform-lino","vers":"0.0.2","deps":[{"name":"nom","req":"^8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75f3c5b1c3d2f4bed75e9739c8a882446aa4105d193a625caec4b4eb25c37fe9","features":{},"yanked":false}
