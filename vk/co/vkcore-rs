@@ -1,1 +1,2 @@
 {"name":"vkcore-rs","vers":"0.0.1","deps":[{"name":"glfw","req":"^0.59.0","features":["vulkan","image"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5851b513132eb7e825514b0e8227fc1c37b22db522cbe58e88371ff0b13f8334","features":{},"yanked":false}
+{"name":"vkcore-rs","vers":"0.1.2","deps":[{"name":"glfw","req":"^0.59.0","features":["vulkan","image"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3b1af4207c9edbb88cddd27129fe85d7c5d4708867f51c1c445601bde7765697","features":{},"yanked":false}
