@@ -1,0 +1,1 @@
+{"name":"e9571_math_lib","vers":"0.1.0","deps":[{"name":"e9571_lib1","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c4c1c1348f674c620af685b61187ec4be00ce99c3e432561382a8390241f839","features":{},"yanked":false}
