@@ -1,0 +1,1 @@
+{"name":"vkcore-rs","vers":"0.0.1","deps":[{"name":"glfw","req":"^0.59.0","features":["vulkan","image"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5851b513132eb7e825514b0e8227fc1c37b22db522cbe58e88371ff0b13f8334","features":{},"yanked":false}
