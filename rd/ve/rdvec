@@ -1,0 +1,1 @@
+{"name":"rdvec","vers":"0.1.0","deps":[],"cksum":"bf4993d0c39cff0524d73ddffdfb02765b76bb37ca0cdfc3bdd7e6a30090a8e0","features":{"allocator_api":["std"],"default":["std"],"std":[]},"yanked":false}
